@@ -1,0 +1,3002 @@
+[
+  {
+    "id":"e10b9320-94d4-4242-a6aa-fdc6d560c054",
+    "nombre":"Mercado, P\u00e9rez and Castro",
+    "nit":"240.903.678-8",
+    "sector":"salud",
+    "contacto":"Ana Janeth Fl\u00f3rez",
+    "correo":"rcastillo@diaz.com.co",
+    "telefono":"339 087 8844",
+    "activo":true
+  },
+  {
+    "id":"f2bf4ea2-d126-42ca-8bcf-7d06258d3f14",
+    "nombre":"Jim\u00e9nez LLC",
+    "nit":"812.308.340-2",
+    "sector":"salud",
+    "contacto":"Edilberto Ortiz",
+    "correo":"bedoyatatiana@lozano.net.co",
+    "telefono":"3595518426",
+    "activo":true
+  },
+  {
+    "id":"211c8557-2005-483d-bcf6-c7b6f3456f16",
+    "nombre":"Jim\u00e9nez, Bustamante and Pineda",
+    "nit":"053.424.089-1",
+    "sector":"Industriales",
+    "contacto":"Esneider Mu\u00f1oz Pineda",
+    "correo":"victortorres@ramirez-mendez.co",
+    "telefono":"+57 327-365-2717",
+    "activo":false
+  },
+  {
+    "id":"59531719-be05-47e6-ac38-5c7291e91b0e",
+    "nombre":"Cruz and Sons",
+    "nit":"397.240.422-6",
+    "sector":"textiles",
+    "contacto":"Mar\u00eda Mar\u00eda Vargas Ch\u00e1vez",
+    "correo":"hlopez@bonilla.com.co",
+    "telefono":"316 601 0023",
+    "activo":false
+  },
+  {
+    "id":"8f9fbb9c-58b8-40b9-b029-91eb5bcaff3e",
+    "nombre":"ORTIZ LTD",
+    "nit":"9001851327",
+    "sector":"textiles",
+    "contacto":"Nicol\u00e1s Jes\u00fas Acosta Vargas",
+    "correo":"antonio10@lopez.com",
+    "telefono":"3862030366",
+    "activo":false
+  },
+  {
+    "id":"67620ed6-e39d-4bbf-b49b-e2e6dc8f4e93",
+    "nombre":"Romero LLC",
+    "nit":"361.721.314-5",
+    "sector":"textiles",
+    "contacto":"Natalia Luz Salgado",
+    "correo":"laraalberto@osorio.com.co",
+    "telefono":"+57 326-249-4514",
+    "activo":true
+  },
+  {
+    "id":"27c9ff72-15a4-4263-8c7d-3eda0da8e2cb",
+    "nombre":"DUR\u00c1N-SAAVEDRA",
+    "nit":"102.252.677-1",
+    "sector":"Salud",
+    "contacto":"Nancy Geraldine Castro",
+    "correo":"ruizcarmen@romero-zapata.co",
+    "telefono":"369 523 6687",
+    "activo":true
+  },
+  {
+    "id":"db4ba5b4-b2f9-4de4-b2cb-77f6ce9852d7",
+    "nombre":"Lozano, Lozano and Pinto",
+    "nit":"6196893135",
+    "sector":"textiles",
+    "contacto":null,
+    "correo":"luis21@vallejo.com",
+    "telefono":"3472863330",
+    "activo":false
+  },
+  {
+    "id":"fdc8abc1-76b6-473a-8f5b-b629ae03ced8",
+    "nombre":"Hern\u00e1ndez, Burgos and Rueda",
+    "nit":"6065019179",
+    "sector":"tecnologicos",
+    "contacto":"Mar\u00eda Morales Garc\u00eda",
+    "correo":"rodriguezalvaro@sanchez-diaz.nom.co",
+    "telefono":"+57 328-476-5704",
+    "activo":false
+  },
+  {
+    "id":"8ae97eac-63dc-437f-8eae-0a3c886ef2fe",
+    "nombre":"S\u00e1nchez Ltd",
+    "nit":"0928206678",
+    "sector":"turismo",
+    "contacto":"Jean Sierra",
+    "correo":"estelasanchez@guzman.nom.co",
+    "telefono":"+57 336-903-6289",
+    "activo":false
+  },
+  {
+    "id":"09b5ee07-c3b9-48f5-a44c-b09e6682672f",
+    "nombre":" Ayala Group ",
+    "nit":"756.620.563-4",
+    "sector":"TEXTILES",
+    "contacto":"Luz Rosa Pati\u00f1o",
+    "correo":"maria42@lopez.org",
+    "telefono":"3383034199",
+    "activo":false
+  },
+  {
+    "id":"b9a974e8-6438-4cef-b0cc-403839c2fea5",
+    "nombre":" Londo\u00f1o Group ",
+    "nit":"0051405468",
+    "sector":"turismo",
+    "contacto":"Cecilia Elena Mosquera Hern\u00e1ndez",
+    "correo":"quinteroyesid@lopez.com.co",
+    "telefono":"+57 367-904-2271",
+    "activo":false
+  },
+  {
+    "id":"c6ce8b74-d0ef-45ba-9928-9709f76aa576",
+    "nombre":"L\u00f3pez, Pinz\u00f3n and Loaiza",
+    "nit":"2288985725",
+    "sector":"tecnologicos",
+    "contacto":"Manuel Ord\u00f3\u00f1ez",
+    "correo":"tgomez@giraldo.com",
+    "telefono":"329 710 2481",
+    "activo":false
+  },
+  {
+    "id":"41c76eda-fc5b-41c9-a522-26521038adb4",
+    "nombre":" L\u00f3pez-\u00c1lvarez ",
+    "nit":"4214955112",
+    "sector":"turismo",
+    "contacto":"Antonio Felipe Mu\u00f1oz Pardo",
+    "correo":"gilbertodominguez@gomez-andrade.co",
+    "telefono":"3692758955",
+    "activo":true
+  },
+  {
+    "id":"bd162449-d3ac-417f-a9cc-94bf928a4066",
+    "nombre":"Carrillo PLC",
+    "nit":"740.903.802-1",
+    "sector":"turismo",
+    "contacto":"Eduardo Jaramillo",
+    "correo":"torresomar@lopez.co",
+    "telefono":"+57 311-216-6365",
+    "activo":true
+  },
+  {
+    "id":"c6efa684-fce5-4ee2-89de-f7ccd35fe432",
+    "nombre":"RUIZ PLC",
+    "nit":"7371470827",
+    "sector":"industriales",
+    "contacto":"Ang\u00e9lica Ruiz G\u00f3mez",
+    "correo":"zmartinez@angulo-mantilla.net",
+    "telefono":"+57 303-064-4212",
+    "activo":false
+  },
+  {
+    "id":"4d7d951b-4ad0-4618-bf52-562b1306eee3",
+    "nombre":"Castro Inc",
+    "nit":"476.834.201-6",
+    "sector":" industriales ",
+    "contacto":"Samir Jes\u00fas Ram\u00edrez",
+    "correo":"iramos@paez.nom.co",
+    "telefono":"+57 396-089-3199",
+    "activo":true
+  },
+  {
+    "id":"2974ffe7-a86b-4c4c-bd93-f00691394311",
+    "nombre":"Valencia Ltd",
+    "nit":"5027275164",
+    "sector":"salud",
+    "contacto":"Candelaria Barbosa",
+    "correo":"fernandohenao@lopez.co",
+    "telefono":"+57 382-963-5339",
+    "activo":true
+  },
+  {
+    "id":"365c1028-9b01-4273-8f61-1bae4dd3ba02",
+    "nombre":"Arias LLC",
+    "nit":"0448177665",
+    "sector":"textiles",
+    "contacto":"N\u00e9stor Alejandro Quiroz",
+    "correo":"martha27@arias-cortes.com",
+    "telefono":"+57 386-646-4911",
+    "activo":false
+  },
+  {
+    "id":"2e6215f3-a3de-4c73-b82f-eb35089ad972",
+    "nombre":"L\u00f3pez Inc",
+    "nit":"9617981789",
+    "sector":"industriales",
+    "contacto":"Nelly Melo",
+    "correo":"inescardenas@gonzalez-zuluaga.com",
+    "telefono":"3576605384",
+    "activo":false
+  },
+  {
+    "id":"d70b2a97-a661-4a74-8b9a-3338a7064718",
+    "nombre":"Cu\u00e9llar-Ortiz",
+    "nit":"6306000258",
+    "sector":"textiles",
+    "contacto":"Enrique Tom\u00e1s Chac\u00f3n",
+    "correo":"luisgiraldo@franco.com.co",
+    "telefono":"362 626 5826",
+    "activo":true
+  },
+  {
+    "id":"79a12a09-96dd-41ff-93c5-52d79156649e",
+    "nombre":" L\u00f3pez and Sons ",
+    "nit":"819.648.253-1",
+    "sector":"tecnologicos",
+    "contacto":"Mar\u00eda Mar\u00eda Fuentes",
+    "correo":"mariatoro@cordoba.nom.co",
+    "telefono":"327 523 3438",
+    "activo":true
+  },
+  {
+    "id":"77d2c1d0-a942-49db-bfb7-c42bb28012ee",
+    "nombre":"BONILLA GROUP",
+    "nit":"4041209117",
+    "sector":"tecnologicos",
+    "contacto":"Luz Isabel Lara",
+    "correo":"garciasantiago@giraldo.com",
+    "telefono":"3617136657",
+    "activo":"1"
+  },
+  {
+    "id":"a81e9a6b-18f3-40ee-abb0-10c7da98dfff",
+    "nombre":"D\u00edaz Inc",
+    "nit":"2990155799",
+    "sector":"tecnologicos",
+    "contacto":"Ana Villamizar",
+    "correo":"ramirezmaria@delgado.net",
+    "telefono":"+57 351-305-2312",
+    "activo":"1"
+  },
+  {
+    "id":"5c8b48ab-59e3-4dac-9145-11fd24b51d0e",
+    "nombre":"Castro-Ram\u00edrez",
+    "nit":"1584776863",
+    "sector":"industriales",
+    "contacto":"Juan Pacheco",
+    "correo":"giovanni19@alvarez.co",
+    "telefono":"367 694 5919",
+    "activo":true
+  },
+  {
+    "id":"5267b518-3d2c-4508-b8f2-005cf0ec1313",
+    "nombre":"Osorio-Ospina",
+    "nit":"517.208.496-4",
+    "sector":"Turismo",
+    "contacto":"Diego Luis Montes",
+    "correo":"wmercado@garcia.co",
+    "telefono":"352 510 5053",
+    "activo":false
+  },
+  {
+    "id":"fe015b49-b58f-4283-b920-e6c2f7fcc616",
+    "nombre":"OSPINA-RUIZ",
+    "nit":"3816493831",
+    "sector":"turismo",
+    "contacto":"Esteban Monroy",
+    "correo":"cordobajorge@tovar.net",
+    "telefono":"307 704 6117",
+    "activo":true
+  },
+  {
+    "id":"365b6869-5f12-4cc7-bafe-e703cf41e33b",
+    "nombre":"Agudelo PLC",
+    "nit":"6390409074",
+    "sector":"industriales",
+    "contacto":"Marisol Castillo Triana",
+    "correo":"quinteromaria@lopez-arenas.nom.co",
+    "telefono":"+57 344-556-1857",
+    "activo":true
+  },
+  {
+    "id":"efecdc4d-4a47-4239-bbf9-5e49c7f4a949",
+    "nombre":"G\u00f3mez, Jim\u00e9nez and Castrill\u00f3n",
+    "nit":"715.910.300-2",
+    "sector":"textiles",
+    "contacto":"Azucena Gabriela Vanegas",
+    "correo":"carolinaramirez@ayala-montoya.com",
+    "telefono":"3040104145",
+    "activo":false
+  },
+  {
+    "id":"867bc758-aaeb-4961-8148-6af6e382dce0",
+    "nombre":"\u00c1vila, Guerra and Ortiz",
+    "nit":"2297125296",
+    "sector":"turismo",
+    "contacto":null,
+    "correo":"uobando@ramos.nom.co",
+    "telefono":"315 833 1170",
+    "activo":true
+  },
+  {
+    "id":"86b34e6f-b88a-4617-b9c6-6a6192edd8f6",
+    "nombre":"Rodr\u00edguez and Sons",
+    "nit":"7637153988",
+    "sector":"salud",
+    "contacto":"Fabio Alexander C\u00e1rdenas",
+    "correo":"edgarlopez@torres.co",
+    "telefono":"3798363146",
+    "activo":true
+  },
+  {
+    "id":"8d6facb9-9e54-4c19-a1da-14007f97262b",
+    "nombre":"Duque PLC",
+    "nit":"127.113.072-4",
+    "sector":"industriales",
+    "contacto":"Leidy Contreras",
+    "correo":"monica81@mejia-sanchez.co",
+    "telefono":"368 507 4510",
+    "activo":false
+  },
+  {
+    "id":"b2ddbb50-91cc-49ec-84ef-3b9f7bef3f84",
+    "nombre":"Fl\u00f3rez, Chaparro and Ram\u00edrez",
+    "nit":"362.948.978-6",
+    "sector":"tecnologicos",
+    "contacto":"Flor Paula Bustos",
+    "correo":"marthalara@ortiz.net",
+    "telefono":"3966613473",
+    "activo":false
+  },
+  {
+    "id":"028e7e5c-3f6b-4dd5-b300-36202c672c07",
+    "nombre":"SERNA LLC",
+    "nit":"494.012.897-4",
+    "sector":"tecnologicos",
+    "contacto":"Andrea Flor P\u00e9rez Quintero",
+    "correo":"asanchez@ortega.org",
+    "telefono":"+57 312-095-7907",
+    "activo":true
+  },
+  {
+    "id":"8616bd5a-51e4-4eae-8b37-39ad8500ba80",
+    "nombre":"Ortega Inc",
+    "nit":"094.388.221-1",
+    "sector":"salud",
+    "contacto":"Roberto Quintero",
+    "correo":"igalvisvergara-munoz.co",
+    "telefono":"+57 305-458-9714",
+    "activo":false
+  },
+  {
+    "id":"1ba8b541-e8c3-4f56-94e5-cbaa56e0891a",
+    "nombre":"Delgado, Bedoya and S\u00e1nchez",
+    "nit":"6325703965",
+    "sector":"turismo",
+    "contacto":"Alicia Diana Pedraza Henao",
+    "correo":"henry87@perez.co",
+    "telefono":"+57 369-644-3098",
+    "activo":"SI"
+  },
+  {
+    "id":"0d3c23b4-0021-41ac-b9d4-c42ab49d4574",
+    "nombre":"Herrera, \u00c1vila and Mej\u00eda",
+    "nit":"7954107272",
+    "sector":"Textiles",
+    "contacto":"John Vergara",
+    "correo":"derly14@cardenas.org",
+    "telefono":"3910740650",
+    "activo":false
+  },
+  {
+    "id":"ba52db70-9972-4011-9d84-c31170bb2663",
+    "nombre":"VARGAS LLC",
+    "nit":"488.214.236-9",
+    "sector":"tecnologicos",
+    "contacto":"Milena Mar\u00eda Saavedra",
+    "correo":"edwinhenao@castillo-renteria.org",
+    "telefono":"+57 349-429-6592",
+    "activo":"SI"
+  },
+  {
+    "id":"e3d6a08c-7c4b-420f-b747-024497256999",
+    "nombre":"CASTA\u00d1EDA, VARGAS AND GUERRERO",
+    "nit":"3441497826",
+    "sector":" salud ",
+    "contacto":null,
+    "correo":"vilma67@salamanca-restrepo.co",
+    "telefono":"+57 306-129-4398",
+    "activo":false
+  },
+  {
+    "id":"f73250b8-a23a-49db-b035-177291dbb430",
+    "nombre":"HERN\u00c1NDEZ-R\u00cdOS",
+    "nit":"940.626.078-7",
+    "sector":"salud",
+    "contacto":"Mar\u00eda Ortiz",
+    "correo":"quinterodianaospina-barrios.com",
+    "telefono":"319 803 8287",
+    "activo":false
+  },
+  {
+    "id":"097e8bc0-aa5b-45d8-b141-30725349b3dd",
+    "nombre":"Torres Ltd",
+    "nit":"2440793110",
+    "sector":"industriales",
+    "contacto":"Karen Gonz\u00e1lez L\u00f3pez",
+    "correo":"sandrarodriguez@marin.co",
+    "telefono":"3723849791",
+    "activo":false
+  },
+  {
+    "id":"7c39115f-00b3-4c56-af22-2b5e60fb643e",
+    "nombre":"S\u00e1nchez-Rodr\u00edguez",
+    "nit":"2328837744",
+    "sector":"salud",
+    "contacto":"Carol Esther Soto",
+    "correo":"zflorez@restrepo.com",
+    "telefono":"3047196094",
+    "activo":true
+  },
+  {
+    "id":"0e4bb9d8-2868-402a-91f0-559ad0020167",
+    "nombre":"Franco Ltd",
+    "nit":"9705277402",
+    "sector":"industriales",
+    "contacto":"C\u00e9sar Ramiro Rojas",
+    "correo":"lmolina@sanchez.co",
+    "telefono":"324 461 7679",
+    "activo":"0"
+  },
+  {
+    "id":"ca9a6314-70f3-4515-a576-29246d4bc9e3",
+    "nombre":"D\u00edaz, Blanco and Palacios",
+    "nit":"8425995996",
+    "sector":"turismo",
+    "contacto":"Mar\u00eda Jennifer P\u00e9rez",
+    "correo":"vergaramelba@acosta.nom.co",
+    "telefono":"+57 331-266-1094",
+    "activo":"1"
+  },
+  {
+    "id":"0b1422a1-7796-4e36-8d99-24210b0493b4",
+    "nombre":"G\u00f3mez Ltd",
+    "nit":"175.902.517-6",
+    "sector":"turismo",
+    "contacto":"Mirian C\u00f3rdoba Ram\u00edrez",
+    "correo":"dina43@villamizar.co",
+    "telefono":"331 901 3020",
+    "activo":false
+  },
+  {
+    "id":"1f355d02-52ef-4e7b-89bc-45eb92060742",
+    "nombre":"Guevara-Jaramillo",
+    "nit":"152.873.397-8",
+    "sector":"tecnologicos",
+    "contacto":"Javier Bernardo M\u00e1rquez",
+    "correo":"mendozaantonio@jaramillo.co",
+    "telefono":"+57 341-173-0985",
+    "activo":"1"
+  },
+  {
+    "id":"66925af1-8950-4bf7-8057-9ed650c20873",
+    "nombre":"Torres LLC",
+    "nit":"4651241893",
+    "sector":" salud ",
+    "contacto":"Diego Mart\u00ednez",
+    "correo":"murillosegundo@arango-gomez.co",
+    "telefono":"3435023850",
+    "activo":false
+  },
+  {
+    "id":"12414a6a-5968-45c6-bf90-115c98120098",
+    "nombre":"Rinc\u00f3n PLC",
+    "nit":"905.169.918-7",
+    "sector":"TEXTILES",
+    "contacto":"Marcela G\u00f3mez G\u00f3mez",
+    "correo":"jesusmejia@ocampo-pardo.net",
+    "telefono":"+57 300-038-9608",
+    "activo":true
+  },
+  {
+    "id":"ae8369ab-8d7f-4cf2-bbe0-7e0b6d1d7fee",
+    "nombre":"Mart\u00ednez-Casta\u00f1eda",
+    "nit":"266.821.719-5",
+    "sector":" turismo ",
+    "contacto":"Juan \u00d3scar Mart\u00ednez",
+    "correo":"andrearodriguez@cano-campo.co",
+    "telefono":"390 030 1027",
+    "activo":false
+  },
+  {
+    "id":"93efce11-d43c-4971-8e42-cffaafabe6e0",
+    "nombre":"Guti\u00e9rrez LLC",
+    "nit":"593.429.671-1",
+    "sector":"tecnologicos",
+    "contacto":"Carmen Luisa Zapata",
+    "correo":"yesid37@suarez.net.co",
+    "telefono":"+57 338-458-8105",
+    "activo":true
+  },
+  {
+    "id":"31ebd349-47e8-4999-aa05-ba5a0eaadb33",
+    "nombre":"Rueda-Trujillo",
+    "nit":"413.283.483-1",
+    "sector":"turismo",
+    "contacto":"Nelson Kevin G\u00f3mez",
+    "correo":"jhonbernal@cantillo-rodriguez.com",
+    "telefono":"344 964 1049",
+    "activo":false
+  },
+  {
+    "id":"cd449e8c-9698-4003-8679-e99c6407f1fe",
+    "nombre":" Zapata-Alvarado ",
+    "nit":"6703362680",
+    "sector":"industriales",
+    "contacto":"Jos\u00e9 Castellanos",
+    "correo":"chavezalfonso@caballero-fajardo.com.co",
+    "telefono":"+57 330-596-6018",
+    "activo":"No"
+  },
+  {
+    "id":"4964d777-f203-433d-ad02-9db8d711fed4",
+    "nombre":"Cantillo-Montenegro",
+    "nit":"487.699.842-6",
+    "sector":"turismo",
+    "contacto":"Omar Emiro Hern\u00e1ndez Rodr\u00edguez",
+    "correo":"andrea38@quintero-medina.com.co",
+    "telefono":"3454490149",
+    "activo":false
+  },
+  {
+    "id":"64dca655-909b-480c-a4a6-ae210c4de817",
+    "nombre":"RUIZ, ORTIZ AND D\u00cdAZ",
+    "nit":"707.070.578-3",
+    "sector":"industriales",
+    "contacto":"Andr\u00e9s Rico Castro",
+    "correo":"jeison72@castaneda-castro.co",
+    "telefono":"3232290310",
+    "activo":"No"
+  },
+  {
+    "id":"bf397fc8-7161-455a-9749-e551eb0d14c1",
+    "nombre":"Duque Group",
+    "nit":"9508304405",
+    "sector":"Textiles",
+    "contacto":"Karen Romero",
+    "correo":"palaciosmartha@moreno.com.co",
+    "telefono":"3561642059",
+    "activo":false
+  },
+  {
+    "id":"7988a012-2b6a-48d2-b1e1-2760c61ca5fb",
+    "nombre":" Quintero-Parra ",
+    "nit":"574.902.504-2",
+    "sector":"salud",
+    "contacto":"Luz Rojas",
+    "correo":"jose89herrera.com",
+    "telefono":"+57 326-113-9898",
+    "activo":true
+  },
+  {
+    "id":"8d01cb5a-ee00-468c-ad88-14f6dfbe26cf",
+    "nombre":"GUERRERO, ARDILA AND MIRANDA",
+    "nit":"8097887543",
+    "sector":"TURISMO",
+    "contacto":"Edward Valencia",
+    "correo":"angela51@moreno.co",
+    "telefono":"315 881 5793",
+    "activo":false
+  },
+  {
+    "id":"b87444aa-edba-4d96-840a-8598849ea163",
+    "nombre":"Serna-Torres",
+    "nit":"2836929445",
+    "sector":"Industriales",
+    "contacto":"Luis Diego Mora",
+    "correo":"carlosbarrera@maldonado.com",
+    "telefono":"3216487120",
+    "activo":true
+  },
+  {
+    "id":"6c824338-19a7-41b4-8770-ea0afdfc9c78",
+    "nombre":"Rodr\u00edguez-P\u00e9rez",
+    "nit":"1288665268",
+    "sector":"tecnologicos",
+    "contacto":"Maritza Luz Burbano Burbano",
+    "correo":"portillamaria@caceres.net.co",
+    "telefono":"376 472 2981",
+    "activo":false
+  },
+  {
+    "id":"7748753e-b6d5-4164-a0ce-de6b87bba653",
+    "nombre":"Lara PLC",
+    "nit":"9576572894",
+    "sector":"salud",
+    "contacto":"Martha Esther Mart\u00ednez",
+    "correo":"ygutierrez@uribe-posada.com",
+    "telefono":"3368499515",
+    "activo":true
+  },
+  {
+    "id":"52df9ac5-81b5-4dda-9598-ab54e1290baa",
+    "nombre":"P\u00e9rez-Guti\u00e9rrez",
+    "nit":"773.244.913-4",
+    "sector":"industriales",
+    "contacto":"Luz Caicedo Palacios",
+    "correo":"mariapabon@montoya.com",
+    "telefono":"3534967827",
+    "activo":true
+  },
+  {
+    "id":"f8472a99-7588-4df2-81c7-3575480acc55",
+    "nombre":"Prada-Becerra",
+    "nit":"1767412415",
+    "sector":"turismo",
+    "contacto":"Alicia Martha Garc\u00eda",
+    "correo":"josecastro@galvis.nom.co",
+    "telefono":"3506185380",
+    "activo":false
+  },
+  {
+    "id":"20aedbc9-d526-4bf5-9432-dafe933d7df7",
+    "nombre":"Pineda, Vargas and Orozco",
+    "nit":"334.727.274-2",
+    "sector":"turismo",
+    "contacto":"Yolanda Mar\u00eda Delgado Vanegas",
+    "correo":"mariamartinez@leon.nom.co",
+    "telefono":"3496935782",
+    "activo":false
+  },
+  {
+    "id":"ec63ff85-d435-451a-9709-3c7cf05b0c42",
+    "nombre":"Sep\u00falveda-Pulido",
+    "nit":"7769587413",
+    "sector":"industriales",
+    "contacto":"Yazm\u00edn Y\u00e9sica Cabrera",
+    "correo":"utamayoduran.com",
+    "telefono":"375 156 2779",
+    "activo":false
+  },
+  {
+    "id":"cabdb1ad-e32b-436b-810b-b6cde99fc646",
+    "nombre":"Pacheco-G\u00f3mez",
+    "nit":"483.608.545-6",
+    "sector":"salud",
+    "contacto":"Anderson Salazar Mu\u00f1oz",
+    "correo":"ortizmiguel@acevedo-gomez.co",
+    "telefono":"363 928 3199",
+    "activo":false
+  },
+  {
+    "id":"79551ff5-1b52-4fa7-b873-57580a8b8a75",
+    "nombre":"Hern\u00e1ndez-Montoya",
+    "nit":"061.558.108-3",
+    "sector":"tecnologicos",
+    "contacto":"Sebasti\u00e1n Faber Velasco",
+    "correo":"oestradameneses-vallejo.co",
+    "telefono":"+57 363-830-0081",
+    "activo":true
+  },
+  {
+    "id":"3cb8ddb1-1f38-45de-bcc4-23123f682336",
+    "nombre":"Castillo, Reyes and S\u00e1nchez",
+    "nit":"4033041662",
+    "sector":"SALUD",
+    "contacto":"Jhonatan Garc\u00eda",
+    "correo":"vrodriguez@calderon.co",
+    "telefono":"339 456 8044",
+    "activo":true
+  },
+  {
+    "id":"591aacba-3651-4f75-b521-cbe4b5624413",
+    "nombre":"Ram\u00edrez-Ortiz",
+    "nit":"976.461.368-4",
+    "sector":"industriales",
+    "contacto":"Jorge Hernando Mora Fl\u00f3rez",
+    "correo":"xpadilla@forero.com",
+    "telefono":"+57 363-757-9145",
+    "activo":true
+  },
+  {
+    "id":"6afaa518-70eb-4968-8f1d-71aae77cd08f",
+    "nombre":"Montes Inc",
+    "nit":"1823793126",
+    "sector":"salud",
+    "contacto":"Cristian Jonathan Ochoa Mart\u00ednez",
+    "correo":"tvargas@quintero.com.co",
+    "telefono":"396 043 8787",
+    "activo":false
+  },
+  {
+    "id":"0b996b69-ebb7-4761-9990-3a87915f2d60",
+    "nombre":"Olaya-Moreno",
+    "nit":"7788116162",
+    "sector":"textiles",
+    "contacto":"Ana Zambrano",
+    "correo":"elenapolo@gomez.co",
+    "telefono":"328 728 6604",
+    "activo":"0"
+  },
+  {
+    "id":"037f04c0-18b9-4cdc-a46e-5e94ded021c8",
+    "nombre":"Mej\u00eda LLC",
+    "nit":"4859592248",
+    "sector":"textiles",
+    "contacto":"Mariela Delia Arias Agudelo",
+    "correo":"vrestrepo@pinzon.co",
+    "telefono":"3705622710",
+    "activo":false
+  },
+  {
+    "id":"476b9b51-f798-4e18-aa38-31e2354ee89a",
+    "nombre":" Narv\u00e1ez-Ram\u00edrez ",
+    "nit":"187.510.979-2",
+    "sector":"turismo",
+    "contacto":"Gloria Blanca Torres",
+    "correo":"chaparroesperanza@orozco-suarez.com.co",
+    "telefono":"+57 364-883-1921",
+    "activo":true
+  },
+  {
+    "id":"11e81c78-f4e8-4ce8-bfc9-dbd80439124e",
+    "nombre":"Rojas, D\u00edaz and Londo\u00f1o",
+    "nit":"2896599949",
+    "sector":"SALUD",
+    "contacto":"Alberto Jos\u00e9 Moreno Rojas",
+    "correo":"isabelacosta@valencia.com",
+    "telefono":"3876754813",
+    "activo":false
+  },
+  {
+    "id":"36986f52-9ad1-4109-9233-88cb2d5611a7",
+    "nombre":"Medina, Perdomo and Toro",
+    "nit":"548.581.932-4",
+    "sector":"tecnologicos",
+    "contacto":"Mireya Londo\u00f1o Rinc\u00f3n",
+    "correo":"manuel86romero.co",
+    "telefono":"356 398 3652",
+    "activo":"0"
+  },
+  {
+    "id":"c472691f-e1a9-4e22-9e03-5dd3912ea506",
+    "nombre":"Barrag\u00e1n, Ram\u00edrez and Mosquera",
+    "nit":"3094515480",
+    "sector":"tecnologicos",
+    "contacto":"Jos\u00e9 Castro",
+    "correo":"scastillo@munoz.com",
+    "telefono":"379 772 7810",
+    "activo":true
+  },
+  {
+    "id":"712d26b6-ea51-4822-9eb7-6cddb70271e2",
+    "nombre":"G\u00f3mez-Lara",
+    "nit":"2221610705",
+    "sector":"industriales",
+    "contacto":"Yolima Isabel Melo",
+    "correo":"quinterojavier@burbano-perez.com.co",
+    "telefono":"3580660138",
+    "activo":false
+  },
+  {
+    "id":"ce341b15-b3f0-4e7a-bacd-5132b63dbff1",
+    "nombre":"Padilla Inc",
+    "nit":"2704938620",
+    "sector":"textiles",
+    "contacto":"Fernando Romero",
+    "correo":"liceth19@lopez-prada.com",
+    "telefono":"+57 312-590-2035",
+    "activo":false
+  },
+  {
+    "id":"ad9cfec9-84b6-41c1-9f86-301ee6689647",
+    "nombre":"Garc\u00eda-Vanegas",
+    "nit":"343.240.642-4",
+    "sector":"Turismo",
+    "contacto":"Amparo Pe\u00f1a Perea",
+    "correo":"brayan24@benavides-ortiz.co",
+    "telefono":"359 558 7209",
+    "activo":true
+  },
+  {
+    "id":"baede565-6994-485e-94b0-05bf3c119d25",
+    "nombre":"S\u00e1nchez-Jaramillo",
+    "nit":"654.358.841-8",
+    "sector":"textiles",
+    "contacto":null,
+    "correo":"lindacorrea@arias-rivera.com.co",
+    "telefono":"305 150 2675",
+    "activo":false
+  },
+  {
+    "id":"e3a61831-bad3-4a2d-b406-5a0c0bd1cea9",
+    "nombre":"Jaimes-L\u00f3pez",
+    "nit":"542.782.079-7",
+    "sector":"tecnologicos",
+    "contacto":"Wilson Ortega Vargas",
+    "correo":"alberto76@gomez-oviedo.net",
+    "telefono":"3816649690",
+    "activo":false
+  },
+  {
+    "id":"835a8c6b-0c38-4021-9119-97b3b63c842f",
+    "nombre":"Molina LLC",
+    "nit":"9839225014",
+    "sector":"textiles",
+    "contacto":"Yenny Cruz P\u00e9rez",
+    "correo":"navarroalejandrasuarez.com",
+    "telefono":"333 613 2850",
+    "activo":true
+  },
+  {
+    "id":"3875a911-1971-42dd-a801-cc6043b4f305",
+    "nombre":"P\u00e9rez-L\u00f3pez",
+    "nit":"8637673162",
+    "sector":"textiles",
+    "contacto":"Alonso Carlos Perdomo",
+    "correo":"leonardo69@lozano-romero.net.co",
+    "telefono":"390 392 3555",
+    "activo":true
+  },
+  {
+    "id":"0177e064-d59e-4a7a-a095-60f54e7b8834",
+    "nombre":"Bravo, Le\u00f3n and Espinosa",
+    "nit":"132.730.346-1",
+    "sector":"tecnologicos",
+    "contacto":"Eduardo Juan S\u00e1nchez",
+    "correo":"ximena70@bustos-salazar.com",
+    "telefono":"368 171 5160",
+    "activo":"SI"
+  },
+  {
+    "id":"4adaa25c-fe7f-4feb-8033-5a498a3575e7",
+    "nombre":"Ruiz PLC",
+    "nit":"8670766046",
+    "sector":"textiles",
+    "contacto":"Alfredo Gonz\u00e1lez",
+    "correo":"xsierraamaya-meza.co",
+    "telefono":"+57 312-686-1205",
+    "activo":true
+  },
+  {
+    "id":"8f5e398f-7630-4d29-819a-6dd91592c2c6",
+    "nombre":"Fern\u00e1ndez, Ram\u00edrez and Guerra",
+    "nit":"7607401775",
+    "sector":"industriales",
+    "contacto":"Hilda Pacheco",
+    "correo":"manuela40ortiz.co",
+    "telefono":"354 091 5086",
+    "activo":"SI"
+  },
+  {
+    "id":"60f88ea1-2807-4561-bc40-2a9ad247fbe3",
+    "nombre":"D\u00edaz PLC",
+    "nit":"122.764.579-3",
+    "sector":"salud",
+    "contacto":"Jos\u00e9 Alexander G\u00f3mez Le\u00f3n",
+    "correo":"florezaurelio@quintero.nom.co",
+    "telefono":"346 602 4161",
+    "activo":false
+  },
+  {
+    "id":"0b092ba9-56cf-4554-aa55-bbf9455d81c5",
+    "nombre":"JARAMILLO LLC",
+    "nit":"988.305.973-6",
+    "sector":"tecnologicos",
+    "contacto":"Omar Casta\u00f1o",
+    "correo":"jose09@chavez-buitrago.org",
+    "telefono":"306 306 2447",
+    "activo":false
+  },
+  {
+    "id":"60b9c71a-f8e3-495b-a5ce-30aee42372ea",
+    "nombre":"ANGULO, ACEVEDO AND L\u00d3PEZ",
+    "nit":"3053194979",
+    "sector":"turismo",
+    "contacto":"V\u00edctor Valencia Giraldo",
+    "correo":"herreraangelica@sanchez-ordonez.co",
+    "telefono":"3382646091",
+    "activo":true
+  },
+  {
+    "id":"bc820a4b-1b7e-4dd8-a093-5d5461f6b50c",
+    "nombre":"Reyes, Bustamante and Garc\u00eda",
+    "nit":"8544577029",
+    "sector":" salud ",
+    "contacto":"Mercedes Ospina Guerrero",
+    "correo":"espinosaamparo@rincon.com",
+    "telefono":"369 116 3319",
+    "activo":true
+  },
+  {
+    "id":"54d95a6b-f8ed-4e79-9e87-9716b3b7c0e1",
+    "nombre":"D\u00edaz-P\u00e9rez",
+    "nit":"686.536.945-5",
+    "sector":"SALUD",
+    "contacto":"Vanessa Nubia Barrera",
+    "correo":"jose86@andrade.co",
+    "telefono":"+57 347-226-4085",
+    "activo":false
+  },
+  {
+    "id":"865e2fcc-9318-489a-83db-803a1982668e",
+    "nombre":"HOYOS-CARRILLO",
+    "nit":"169.666.309-3",
+    "sector":"tecnologicos",
+    "contacto":"Viviana Mora Garc\u00eda",
+    "correo":"ugarces@vargas.com",
+    "telefono":"350 968 8327",
+    "activo":true
+  },
+  {
+    "id":"ced57279-4269-4fc0-a29a-1620ecc72774",
+    "nombre":"Vanegas-Moreno",
+    "nit":"735.241.039-7",
+    "sector":"tecnologicos",
+    "contacto":"Antonio Francisco Cer\u00f3n Bautista",
+    "correo":"hsierra@velasco.net",
+    "telefono":"371 006 8761",
+    "activo":"0"
+  },
+  {
+    "id":"251cd3f4-ded1-49ac-81ab-362b48f55d75",
+    "nombre":" Yepes-Loaiza ",
+    "nit":"819.807.704-6",
+    "sector":"salud",
+    "contacto":"Rosa Becerra",
+    "correo":"hosorio@sanchez.com.co",
+    "telefono":"+57 312-565-2373",
+    "activo":"SI"
+  },
+  {
+    "id":"a34b65f3-a098-423d-80ef-54416646782c",
+    "nombre":"L\u00f3pez-Bedoya",
+    "nit":"1773454757",
+    "sector":"industriales",
+    "contacto":"Juli\u00e1n Hurtado",
+    "correo":"milenagutierrez@cuellar.co",
+    "telefono":"344 294 7742",
+    "activo":false
+  },
+  {
+    "id":"26aa4df1-6038-4cbc-b3b7-7c5612b1ef5a",
+    "nombre":"Cifuentes, Hern\u00e1ndez and Calder\u00f3n",
+    "nit":"643.039.429-0",
+    "sector":"TEXTILES",
+    "contacto":"Manuel Palacios",
+    "correo":"kacosta@franco-fernandez.co",
+    "telefono":"3585672872",
+    "activo":false
+  },
+  {
+    "id":"1d3e6971-3c10-41f2-990c-6b0b5654bdee",
+    "nombre":"Triana-Rodr\u00edguez",
+    "nit":"153.433.249-1",
+    "sector":"Turismo",
+    "contacto":"Gloria \u00c1ngela Barreto Fajardo",
+    "correo":"jairomorales@castillo.co",
+    "telefono":"+57 381-488-8107",
+    "activo":false
+  },
+  {
+    "id":"f338dab6-321c-4972-9ebf-c1b4e37e460b",
+    "nombre":"Guzm\u00e1n, Vargas and Bautista",
+    "nit":"2337209484",
+    "sector":" textiles ",
+    "contacto":"Astrid Victoria Alarc\u00f3n",
+    "correo":"josemartinez@vargas.co",
+    "telefono":"371 805 1371",
+    "activo":false
+  },
+  {
+    "id":"8dd872d0-1e3a-4332-9dbb-f211d3d39418",
+    "nombre":"Garc\u00eda-Ram\u00edrez",
+    "nit":"8939749096",
+    "sector":"tecnologicos",
+    "contacto":"Consuelo In\u00e9s Franco",
+    "correo":"qangel@agudelo-rincon.com",
+    "telefono":"3587844483",
+    "activo":true
+  },
+  {
+    "id":"8ca46a85-4149-43ee-8ed5-0ae1718bd708",
+    "nombre":"Castro-Londo\u00f1o",
+    "nit":"4712705877",
+    "sector":" textiles ",
+    "contacto":"Andrea Ochoa Sandoval",
+    "correo":"velandiaraquel@pacheco.com",
+    "telefono":"333 484 5871",
+    "activo":false
+  },
+  {
+    "id":"12263299-15c1-427b-977f-d80cc5b2d04c",
+    "nombre":"Su\u00e1rez, Le\u00f3n and Jaramillo",
+    "nit":"252.362.292-5",
+    "sector":"textiles",
+    "contacto":"Pablo Kevin Pati\u00f1o Ortiz",
+    "correo":"gilma45@suarez.co",
+    "telefono":"+57 357-469-6606",
+    "activo":true
+  },
+  {
+    "id":"c129f478-94db-4cd2-b0e0-34377ad3c30f",
+    "nombre":"TAMAYO LLC",
+    "nit":"274.033.445-0",
+    "sector":"turismo",
+    "contacto":"Alejandro Eduardo Vel\u00e1squez",
+    "correo":"orlandogarzon@zuluaga-gonzalez.net",
+    "telefono":"3257970673",
+    "activo":true
+  },
+  {
+    "id":"e2b5e98d-458f-4eab-af26-e4d934af1955",
+    "nombre":"Ospino-Orozco",
+    "nit":"0105485741",
+    "sector":"textiles",
+    "contacto":"Carlos Germ\u00e1n Valencia Guevara",
+    "correo":"jbravo@jimenez.net",
+    "telefono":"+57 359-848-8402",
+    "activo":false
+  },
+  {
+    "id":"84fb6ddb-fafe-40f4-917b-37bf00b60152",
+    "nombre":"Boh\u00f3rquez Ltd",
+    "nit":"5573257375",
+    "sector":"industriales",
+    "contacto":"Alberto Israel Mu\u00f1oz",
+    "correo":"hernandezjorge@medina-reyes.com",
+    "telefono":"380 850 9608",
+    "activo":true
+  },
+  {
+    "id":"8c580019-89be-4aee-8ae8-1f87df866b6e",
+    "nombre":"ANGULO-RINC\u00d3N",
+    "nit":"9511918182",
+    "sector":"turismo",
+    "contacto":"Alexandra Cristina Bernal",
+    "correo":"cesarcastaneda@figueroa-restrepo.nom.co",
+    "telefono":"325 129 5786",
+    "activo":true
+  },
+  {
+    "id":"d0d3a5b2-de52-4fc1-b4e0-d5d97781acbf",
+    "nombre":"Castillo LLC",
+    "nit":"096.003.562-4",
+    "sector":"textiles",
+    "contacto":"Margarita Kelly Lozano Arango",
+    "correo":"angelcordoba@santos-forero.com.co",
+    "telefono":"3232342108",
+    "activo":"0"
+  },
+  {
+    "id":"713221c6-bc42-474e-b399-68deb15b8afd",
+    "nombre":"Garc\u00e9s, G\u00f3mez and Hern\u00e1ndez",
+    "nit":"515.533.342-6",
+    "sector":"turismo",
+    "contacto":"David Villegas",
+    "correo":"maria71@rodriguez-salas.nom.co",
+    "telefono":"3360776336",
+    "activo":true
+  },
+  {
+    "id":"6abd8cd6-5f9b-445b-aeaa-d10a88d8458b",
+    "nombre":"Aguilar, L\u00f3pez and D\u00edaz",
+    "nit":"9812317955",
+    "sector":"industriales",
+    "contacto":"Juan Bustamante Vera",
+    "correo":"magaly81@rodriguez-rivera.co",
+    "telefono":"361 554 1643",
+    "activo":false
+  },
+  {
+    "id":"5280015b-5f04-47f8-bb77-fb6e39576aef",
+    "nombre":"Garc\u00eda, Franco and Giraldo",
+    "nit":"7045023290",
+    "sector":"industriales",
+    "contacto":null,
+    "correo":"martinezfrancisco@duran.com",
+    "telefono":"+57 362-282-2512",
+    "activo":true
+  },
+  {
+    "id":"30cf3f83-2728-4c76-b660-0838c828b590",
+    "nombre":"Zapata LLC",
+    "nit":"654.950.050-7",
+    "sector":" tecnologicos ",
+    "contacto":"Aura S\u00e1nchez",
+    "correo":"ygomez@camargo.co",
+    "telefono":"331 611 7768",
+    "activo":true
+  },
+  {
+    "id":"cf734881-6287-49eb-9f6b-ce345897a994",
+    "nombre":"Hern\u00e1ndez-Agudelo",
+    "nit":"047.742.585-9",
+    "sector":"Industriales",
+    "contacto":null,
+    "correo":"carmenmolina@torres.nom.co",
+    "telefono":"316 491 3342",
+    "activo":false
+  },
+  {
+    "id":"8cb5337e-5551-4536-a88b-658746196875",
+    "nombre":"Navarro, Valencia and Quiroz",
+    "nit":"9889425652",
+    "sector":"industriales",
+    "contacto":"Katherine Vera",
+    "correo":"alzatetomas@sanchez.net",
+    "telefono":"326 509 7753",
+    "activo":true
+  },
+  {
+    "id":"4c5eab16-9eaa-4dba-adf7-4bb41a892e02",
+    "nombre":"Polo, Manrique and Parra",
+    "nit":"3794871485",
+    "sector":"textiles",
+    "contacto":"Yecid Juan Herrera",
+    "correo":"dfuentes@lopez.org",
+    "telefono":"+57 315-608-2137",
+    "activo":true
+  },
+  {
+    "id":"07f3e56d-e317-4d59-a98a-13f551e1bb03",
+    "nombre":"Gonz\u00e1lez Ltd",
+    "nit":"425.476.818-2",
+    "sector":"textiles",
+    "contacto":null,
+    "correo":"pedrotorres@ramirez.co",
+    "telefono":"+57 389-298-8085",
+    "activo":false
+  },
+  {
+    "id":"31934ca5-846c-48fd-b3f6-fd01c68381db",
+    "nombre":"Moreno, Erazo and Contreras",
+    "nit":"521.293.289-6",
+    "sector":"industriales",
+    "contacto":"Isabel Carol N\u00fa\u00f1ez Jim\u00e9nez",
+    "correo":"dsantos@hernandez-rico.com",
+    "telefono":"314 843 9910",
+    "activo":false
+  },
+  {
+    "id":"061c5d48-873a-4824-ac78-694310dbba26",
+    "nombre":"Hern\u00e1ndez-Ramos",
+    "nit":"2362669335",
+    "sector":"TEXTILES",
+    "contacto":"Martha Emilia Hern\u00e1ndez",
+    "correo":"vgonzalez@barbosa.net.co",
+    "telefono":"3450184819",
+    "activo":"No"
+  },
+  {
+    "id":"571df45c-b250-4184-9513-1a8b5c0efb75",
+    "nombre":"Moreno-Mendoza",
+    "nit":"1897215406",
+    "sector":"tecnologicos",
+    "contacto":"Luis Correa",
+    "correo":"germanaguirreuribe-torres.com",
+    "telefono":"+57 319-953-7660",
+    "activo":true
+  },
+  {
+    "id":"cf0c75aa-2d75-49a8-a624-71ea4f958485",
+    "nombre":"L\u00f3pez, Solano and Ben\u00edtez",
+    "nit":"448.564.510-1",
+    "sector":"industriales",
+    "contacto":"Antonio Mauricio Vega Soto",
+    "correo":"bolivaraugusto@londono-velasco.co",
+    "telefono":"398 609 1919",
+    "activo":false
+  },
+  {
+    "id":"a0d31181-56a9-4e08-b004-c6909a6f2685",
+    "nombre":"Gonz\u00e1lez and Sons",
+    "nit":"5996605779",
+    "sector":"turismo",
+    "contacto":"Heidy Guerra",
+    "correo":"bcamacho@ospina.net.co",
+    "telefono":"351 460 7455",
+    "activo":true
+  },
+  {
+    "id":"91df9426-3213-4a3f-a8e6-ee07f907bf21",
+    "nombre":"Quiroz-Vargas",
+    "nit":"7057423885",
+    "sector":"TEXTILES",
+    "contacto":"Germ\u00e1n Ocampo P\u00e9rez",
+    "correo":"vzuluaga@garzon-mena.net",
+    "telefono":"354 116 5972",
+    "activo":false
+  },
+  {
+    "id":"4e515835-a396-4bd3-b122-28205aa22f28",
+    "nombre":"Ram\u00edrez-Ord\u00f3\u00f1ez",
+    "nit":"7557522501",
+    "sector":"salud",
+    "contacto":"Margarita Elvia Berm\u00fadez Londo\u00f1o",
+    "correo":"catalinavelez@lopez.com.co",
+    "telefono":"3642585626",
+    "activo":false
+  },
+  {
+    "id":"11cd952b-30f1-4c64-b83d-4f95fc0a8f69",
+    "nombre":"Meza Ltd",
+    "nit":"499.153.703-8",
+    "sector":"turismo",
+    "contacto":"Nelly Castro Zapata",
+    "correo":"esthertorres@arrieta.com",
+    "telefono":"+57 397-768-8936",
+    "activo":true
+  },
+  {
+    "id":"5213c3e2-83a5-428f-9a33-841dba30b9e7",
+    "nombre":"Miranda PLC",
+    "nit":"696.454.655-3",
+    "sector":"salud",
+    "contacto":"\u00c1ngel Andr\u00e9s Aguirre",
+    "correo":"humberto38@hernandez.co",
+    "telefono":"378 519 3583",
+    "activo":true
+  },
+  {
+    "id":"63b536fb-8fff-42f6-9cd8-8f40ecd09a99",
+    "nombre":"Ortiz-Perea",
+    "nit":"7977961208",
+    "sector":"turismo",
+    "contacto":"Julio Andr\u00e9s Romero Salas",
+    "correo":"patriciamosquera@castro.com",
+    "telefono":"+57 397-626-3748",
+    "activo":true
+  },
+  {
+    "id":"3a8354f1-00a7-40b7-bd10-4a422da4bb3d",
+    "nombre":"Gil, Valencia and Jaramillo",
+    "nit":"862.895.090-5",
+    "sector":"turismo",
+    "contacto":"Ximena Mar\u00eda Mart\u00ednez",
+    "correo":"uariza@vargas.com",
+    "telefono":"320 715 1169",
+    "activo":false
+  },
+  {
+    "id":"95ac659d-df5a-4346-8d82-f61782958a4a",
+    "nombre":"N\u00da\u00d1EZ, GIRALDO AND PARRA",
+    "nit":"7252145264",
+    "sector":"salud",
+    "contacto":"Luis Fernando Ram\u00edrez Romero",
+    "correo":"herreracesar@munoz.co",
+    "telefono":"305 120 8005",
+    "activo":"1"
+  },
+  {
+    "id":"5baa03ca-f420-40a0-b9c1-ed20fa26d1cd",
+    "nombre":"Su\u00e1rez-Vera",
+    "nit":"9951239728",
+    "sector":"textiles",
+    "contacto":"Tulia Luz Carrillo S\u00e1nchez",
+    "correo":"carlos72@sanchez.com",
+    "telefono":"+57 381-441-5298",
+    "activo":false
+  },
+  {
+    "id":"c2192062-7274-4f58-bb22-2039c7835f57",
+    "nombre":" Galeano Group ",
+    "nit":"392.957.867-1",
+    "sector":"salud",
+    "contacto":"Claudia Rosa Moreno",
+    "correo":"zdiaz@mosquera.net.co",
+    "telefono":"3918158998",
+    "activo":false
+  },
+  {
+    "id":"b8ef7a3d-2112-43be-a117-b67590af5b7d",
+    "nombre":"Medina, V\u00e1squez and Ram\u00edrez",
+    "nit":"527.346.666-1",
+    "sector":"textiles",
+    "contacto":null,
+    "correo":"nelsy40@serrano.com.co",
+    "telefono":"3982508004",
+    "activo":false
+  },
+  {
+    "id":"f9c03bf6-e1e2-479c-a5fb-d7df6b3a49be",
+    "nombre":"D\u00cdAZ-ALFONSO",
+    "nit":"068.828.503-1",
+    "sector":" salud ",
+    "contacto":null,
+    "correo":"elcyjaramillo@rodriguez.nom.co",
+    "telefono":"+57 314-035-2635",
+    "activo":true
+  },
+  {
+    "id":"4694c9df-285e-440b-8b14-c6682ae75a40",
+    "nombre":" G\u00f3mez-Hern\u00e1ndez ",
+    "nit":"394.694.346-0",
+    "sector":"textiles",
+    "contacto":"Emilio Rivera Ben\u00edtez",
+    "correo":"victorreyes@rodriguez.co",
+    "telefono":"+57 323-111-2712",
+    "activo":false
+  },
+  {
+    "id":"efa563ce-82b3-497f-a212-3f93b29f1117",
+    "nombre":"Valencia, Barbosa and Mu\u00f1oz",
+    "nit":"648.449.411-6",
+    "sector":"turismo",
+    "contacto":"Linda Yaneth Zapata Hern\u00e1ndez",
+    "correo":"correasandragomez.com",
+    "telefono":"311 369 5727",
+    "activo":true
+  },
+  {
+    "id":"a4350b70-0d2f-4b41-b6b5-8169c4c6dcf1",
+    "nombre":"Solano, Vergara and Mora",
+    "nit":"3350902542",
+    "sector":"textiles",
+    "contacto":"Miguel Jhoan Mart\u00ednez",
+    "correo":"ssanchez@martinez.net.co",
+    "telefono":"370 713 9848",
+    "activo":true
+  },
+  {
+    "id":"43d77e8b-788b-4016-8ade-433f1041a00d",
+    "nombre":" S\u00e1nchez LLC ",
+    "nit":"011.688.092-5",
+    "sector":"tecnologicos",
+    "contacto":"Jos\u00e9 Jhoan Duque",
+    "correo":"florezluis@solano-gonzalez.net",
+    "telefono":"+57 309-810-7964",
+    "activo":false
+  },
+  {
+    "id":"1ec5d673-fa65-4751-9bd8-800b8ad9dd25",
+    "nombre":"Garz\u00f3n, Cardona and Zambrano",
+    "nit":"7945772785",
+    "sector":"salud",
+    "contacto":"Patricia Yolanda P\u00e9rez Parada",
+    "correo":"alonso50cifuentes-sanchez.co",
+    "telefono":"+57 368-362-5366",
+    "activo":false
+  },
+  {
+    "id":"adf51a93-1d24-4097-9e3c-e40ccc1e9a0b",
+    "nombre":"Cruz-C\u00e1rdenas",
+    "nit":"675.556.283-3",
+    "sector":"salud",
+    "contacto":"Maritza Amparo Erazo Padilla",
+    "correo":"raul86@franco-rojas.com",
+    "telefono":"+57 371-874-9603",
+    "activo":false
+  },
+  {
+    "id":"9bb0f1c5-d8fc-483a-a697-3cd61fbc4f5d",
+    "nombre":"Quintero and Sons",
+    "nit":"6862703692",
+    "sector":"textiles",
+    "contacto":"Abelardo Duarte",
+    "correo":"jorgecordoba@sanchez.co",
+    "telefono":"3327599801",
+    "activo":true
+  },
+  {
+    "id":"f33fc6a3-51e1-435a-a7fb-d7bfa622f618",
+    "nombre":"Garc\u00eda Inc",
+    "nit":"0515532341",
+    "sector":"turismo",
+    "contacto":"Edwin Alexander Renter\u00eda",
+    "correo":"tortega@gutierrez.co",
+    "telefono":"3222618962",
+    "activo":true
+  },
+  {
+    "id":"4076adbd-9012-4b23-a242-fc48d5ea65d0",
+    "nombre":"Cort\u00e9s, Correa and Castrill\u00f3n",
+    "nit":"312.710.267-6",
+    "sector":"salud",
+    "contacto":"Juan Jos\u00e9 Pacheco Figueroa",
+    "correo":"lorozco@santos-manrique.net.co",
+    "telefono":"3955151229",
+    "activo":false
+  },
+  {
+    "id":"036ff44d-4c79-48dd-9e3b-9c43b040d37e",
+    "nombre":"Buitrago-Alarc\u00f3n",
+    "nit":"135.415.970-9",
+    "sector":"industriales",
+    "contacto":"Reinel Morales Mu\u00f1oz",
+    "correo":"wilder07@espitia-martinez.net",
+    "telefono":"+57 344-765-0471",
+    "activo":false
+  },
+  {
+    "id":"deefec52-0fea-4c62-afe5-e45c95f85ae8",
+    "nombre":" Caicedo-Hern\u00e1ndez ",
+    "nit":"909.046.376-6",
+    "sector":"TECNOLOGICOS",
+    "contacto":"Erika Ortiz",
+    "correo":"zquintero@marquez.co",
+    "telefono":"+57 325-483-7441",
+    "activo":false
+  },
+  {
+    "id":"bf187b9b-05d6-4571-8dc8-9a8786b69e46",
+    "nombre":"Prada-Garc\u00eda",
+    "nit":"5810213125",
+    "sector":"salud",
+    "contacto":"Ana Yenny Pati\u00f1o",
+    "correo":"rodriguezmaria@polo-garzon.com",
+    "telefono":"397 519 1023",
+    "activo":false
+  },
+  {
+    "id":"b860d33f-bddb-451d-8c4d-273eede6865a",
+    "nombre":"Carmona, D\u00edaz and Pinz\u00f3n",
+    "nit":"1063301658",
+    "sector":"textiles",
+    "contacto":"Leidy Diana Ojeda Calder\u00f3n",
+    "correo":"yudyariza@leal.com",
+    "telefono":"3123428931",
+    "activo":"No"
+  },
+  {
+    "id":"7b9c0ce7-bb30-471e-b794-1ebbd90856d7",
+    "nombre":"Castellanos, D\u00edaz and Miranda",
+    "nit":"3269496843",
+    "sector":"salud",
+    "contacto":"Antonio Herrera Moreno",
+    "correo":"hoyosjimmy@castro-perez.com",
+    "telefono":"3175096170",
+    "activo":false
+  },
+  {
+    "id":"c9291533-9902-4c00-9a66-69e072435331",
+    "nombre":"Gil, Ruiz and Fuentes",
+    "nit":"5919457575",
+    "sector":"tecnologicos",
+    "contacto":"Jes\u00fas Mauricio V\u00e1squez Sarmiento",
+    "correo":"juangomez@pena-cuellar.co",
+    "telefono":"3677722660",
+    "activo":"0"
+  },
+  {
+    "id":"961c7fe2-de6c-442b-960c-b31b75a58265",
+    "nombre":"Mesa Group",
+    "nit":"265.062.292-3",
+    "sector":"industriales",
+    "contacto":"Mar\u00eda Leidy Ortiz",
+    "correo":"mariamedina@salcedo-marquez.org",
+    "telefono":"3337976627",
+    "activo":"1"
+  },
+  {
+    "id":"244b960f-b22f-4156-97a4-05c5624b3027",
+    "nombre":"MART\u00cdNEZ, SALAMANCA AND MART\u00cdNEZ",
+    "nit":"5794238736",
+    "sector":"textiles",
+    "contacto":"Jos\u00e9 Jes\u00fas S\u00e1nchez M\u00e9ndez",
+    "correo":"mavila@contreras.nom.co",
+    "telefono":"+57 352-597-1075",
+    "activo":true
+  },
+  {
+    "id":"f437a78c-6cc7-4a55-a14f-4359df7fc090",
+    "nombre":"Vargas-Garc\u00e9s",
+    "nit":"3574859532",
+    "sector":" textiles ",
+    "contacto":"Adolfo Fabi\u00e1n Vallejo",
+    "correo":"johnvargas@correa.com",
+    "telefono":"362 951 8779",
+    "activo":"1"
+  },
+  {
+    "id":"f9d4f989-5374-4c8f-ae3e-07029c4ae6b5",
+    "nombre":"Ortiz, Cardona and Casta\u00f1o",
+    "nit":"425.073.305-5",
+    "sector":"salud",
+    "contacto":"Julio Stiven Arteaga Reyes",
+    "correo":"alberto83@diaz.org",
+    "telefono":"303 884 3660",
+    "activo":true
+  },
+  {
+    "id":"aa57b966-2a5b-48f0-bfa1-17a83d9cac8f",
+    "nombre":"Mu\u00f1oz-S\u00e1nchez",
+    "nit":"006.157.276-8",
+    "sector":"tecnologicos",
+    "contacto":"Stella Uribe Gonz\u00e1lez",
+    "correo":"aida39@gutierrez-orozco.co",
+    "telefono":"301 058 7525",
+    "activo":true
+  },
+  {
+    "id":"07caa298-81c9-4e1f-8997-b10d370bcad0",
+    "nombre":"Rivera, Rodr\u00edguez and Mej\u00eda",
+    "nit":"562.590.459-9",
+    "sector":"turismo",
+    "contacto":"Mayra Mart\u00ednez",
+    "correo":"azucenacarmona@sanchez.com",
+    "telefono":"+57 331-555-1651",
+    "activo":true
+  },
+  {
+    "id":"3293e95f-6bf7-43f5-85fb-c1b2d561137b",
+    "nombre":"Castillo-Mart\u00ednez",
+    "nit":"6628137214",
+    "sector":"Turismo",
+    "contacto":"Paola Paula Vel\u00e1squez Mart\u00ednez",
+    "correo":"olivagomez@quiroga.co",
+    "telefono":"3556608470",
+    "activo":false
+  },
+  {
+    "id":"5ebb9158-1184-430e-bc3b-4f0db55eac62",
+    "nombre":"Forero, Guerrero and Garc\u00eda",
+    "nit":"3903397051",
+    "sector":"textiles",
+    "contacto":"Alfonso N\u00e9stor Medina",
+    "correo":"andresceballos@trujillo.co",
+    "telefono":"+57 323-945-3546",
+    "activo":false
+  },
+  {
+    "id":"48175a9a-7575-4f7c-8667-bab267f9a5fb",
+    "nombre":"Bernal Group",
+    "nit":"079.863.210-6",
+    "sector":"tecnologicos",
+    "contacto":"Astrid Xiomara Ram\u00edrez",
+    "correo":"hernan39@mosquera-martinez.net.co",
+    "telefono":"3394380403",
+    "activo":false
+  },
+  {
+    "id":"3f617bbc-e571-4436-8276-001645b0e226",
+    "nombre":"Estrada and Sons",
+    "nit":"765.769.277-8",
+    "sector":"textiles",
+    "contacto":null,
+    "correo":"anagonzalez@marquez.com",
+    "telefono":"+57 304-047-6921",
+    "activo":"SI"
+  },
+  {
+    "id":"4da4baed-79ed-45b1-8dab-70f452ab8974",
+    "nombre":"Morales Ltd",
+    "nit":"365.146.040-1",
+    "sector":"Turismo",
+    "contacto":"Carlos Cruz",
+    "correo":"paolahenao@alzate.com",
+    "telefono":"301 137 9844",
+    "activo":false
+  },
+  {
+    "id":"f7034762-aad6-482e-b77c-d1e3431a7202",
+    "nombre":" Narv\u00e1ez Group ",
+    "nit":"123.166.007-6",
+    "sector":"tecnologicos",
+    "contacto":"Camilo Frank Escobar G\u00f3mez",
+    "correo":"olayagerman@castro.com",
+    "telefono":"343 370 0968",
+    "activo":true
+  },
+  {
+    "id":"b490aba6-6f25-4c68-9994-b2629068181a",
+    "nombre":"Reyes, Moreno and Miranda",
+    "nit":"045.195.778-2",
+    "sector":"turismo",
+    "contacto":"Pablo Manuel Caicedo",
+    "correo":"angelicahenao@perez-castillo.co",
+    "telefono":"354 278 6561",
+    "activo":"0"
+  },
+  {
+    "id":"3a74f7c3-c98e-4faf-b5c0-583d51ccef9a",
+    "nombre":"MU\u00d1OZ, HERN\u00c1NDEZ AND VELANDIA",
+    "nit":"778.205.829-5",
+    "sector":"industriales",
+    "contacto":"Manuela C\u00f3rdoba Rend\u00f3n",
+    "correo":"augustomedina@rangel-ceron.co",
+    "telefono":"308 190 4823",
+    "activo":"No"
+  },
+  {
+    "id":"82a37144-3a49-478f-9577-21c33b0cac2f",
+    "nombre":"Blanco, Quintero and Gonz\u00e1lez",
+    "nit":"586.863.956-1",
+    "sector":"industriales",
+    "contacto":"Ang\u00e9lica Lorena Palacio Lara",
+    "correo":"alejandrosantos@vera.nom.co",
+    "telefono":"3436438130",
+    "activo":"No"
+  },
+  {
+    "id":"160f346c-b02a-4a76-a45a-6bf8aee0c11c",
+    "nombre":"G\u00d3MEZ INC",
+    "nit":"3211471656",
+    "sector":"tecnologicos",
+    "contacto":"Doris Su\u00e1rez",
+    "correo":"trivera@beltran-villegas.net.co",
+    "telefono":"+57 399-070-7550",
+    "activo":false
+  },
+  {
+    "id":"e125cc9b-54b9-4937-a5bc-4f00444819fd",
+    "nombre":"Berm\u00fadez-Prieto",
+    "nit":"681.699.570-6",
+    "sector":"textiles",
+    "contacto":"Yazm\u00edn Uribe",
+    "correo":"ortegaandres@vargas.net.co",
+    "telefono":"3176539705",
+    "activo":false
+  },
+  {
+    "id":"dcc732e0-ec8d-45a3-82d2-35b6c3ba5da1",
+    "nombre":"CORT\u00c9S-RUEDA",
+    "nit":"739.610.290-8",
+    "sector":"turismo",
+    "contacto":"Andr\u00e9s Juan Castro Ospina",
+    "correo":"munozpaola@rincon.com",
+    "telefono":"+57 304-956-1213",
+    "activo":true
+  },
+  {
+    "id":"b8ada4fc-3e7d-4443-a6bf-87ea3731801f",
+    "nombre":"Reyes-Rodr\u00edguez",
+    "nit":"260.423.597-3",
+    "sector":"salud",
+    "contacto":"Rub\u00e9n Roger Gonz\u00e1lez P\u00e9rez",
+    "correo":"jairomonroy@rodriguez.co",
+    "telefono":"308 581 6704",
+    "activo":"0"
+  },
+  {
+    "id":"8f74c6e8-76c8-4cb7-b5c5-c5db462dc4dd",
+    "nombre":"Vel\u00e1squez-Salazar",
+    "nit":"1145768321",
+    "sector":"turismo",
+    "contacto":"Ana Jaramillo",
+    "correo":"cindyorjuela@velasquez-acosta.net.co",
+    "telefono":"329 618 0332",
+    "activo":false
+  },
+  {
+    "id":"94da6297-db4a-4754-833c-307d05f34fd1",
+    "nombre":"Hern\u00e1ndez-Narv\u00e1ez",
+    "nit":"0508018498",
+    "sector":"textiles",
+    "contacto":"Luc\u00eda Arrieta",
+    "correo":"marco73@vergara.co",
+    "telefono":"331 268 8122",
+    "activo":"No"
+  },
+  {
+    "id":"6dcebe7a-8f0a-41b9-8683-3d493d55150d",
+    "nombre":"S\u00e1nchez, Ochoa and Acosta",
+    "nit":"192.365.346-0",
+    "sector":"Tecnologicos",
+    "contacto":"Jos\u00e9 Ruiz Medina",
+    "correo":"javiergranados@cardona-perea.net",
+    "telefono":"+57 327-986-2398",
+    "activo":false
+  },
+  {
+    "id":"67d2b270-a0ac-42e8-ac28-ff27b7e892f1",
+    "nombre":"Zapata-Garc\u00eda",
+    "nit":"906.181.205-4",
+    "sector":"tecnologicos",
+    "contacto":null,
+    "correo":"angie89@villegas-ordonez.co",
+    "telefono":"387 698 9992",
+    "activo":false
+  },
+  {
+    "id":"c2a69670-a3c3-4419-b6ec-9201cbe330f8",
+    "nombre":"Quintero-Aguirre",
+    "nit":"588.914.444-9",
+    "sector":"textiles",
+    "contacto":"Luc\u00eda Nora Fajardo Ospina",
+    "correo":"santos35@buitrago.net.co",
+    "telefono":"3392435885",
+    "activo":true
+  },
+  {
+    "id":"6b4d05e7-a90c-4d97-8777-bd28a89c1797",
+    "nombre":" BAUTISTA PLC ",
+    "nit":"821.433.952-7",
+    "sector":"industriales",
+    "contacto":"Antonio Jairo Ortiz",
+    "correo":"jmontoya@calderon-munoz.co",
+    "telefono":"3860134778",
+    "activo":false
+  },
+  {
+    "id":"865b31af-08c6-4684-a659-646ca7854324",
+    "nombre":"PINTO, PALACIOS AND SALAZAR",
+    "nit":"406.791.766-5",
+    "sector":"textiles",
+    "contacto":"Patricia Luz Ochoa",
+    "correo":"gomezpatricia@caicedo.com",
+    "telefono":"3163090015",
+    "activo":true
+  },
+  {
+    "id":"f4a95207-8b6e-4ce8-a0b3-e3507f2d948a",
+    "nombre":" Pinz\u00f3n, Guti\u00e9rrez and Moreno ",
+    "nit":"3999485320",
+    "sector":"textiles",
+    "contacto":"Alonso Juan Parada",
+    "correo":"nramirezpedraza.com.co",
+    "telefono":"+57 394-711-3633",
+    "activo":true
+  },
+  {
+    "id":"08ad63c8-01e4-4e59-9101-da8c8cecccbf",
+    "nombre":"LE\u00d3N-GALINDO",
+    "nit":"3410346996",
+    "sector":"turismo",
+    "contacto":"Alberto Luis Garc\u00eda Amaya",
+    "correo":"ysanchez@espinosa.net",
+    "telefono":"3768550789",
+    "activo":true
+  },
+  {
+    "id":"b52ceb07-95b0-459d-b7d0-0dd37cd7be91",
+    "nombre":" Velasco-Calder\u00f3n ",
+    "nit":"5219626335",
+    "sector":"salud",
+    "contacto":"Diego Antonio Jim\u00e9nez",
+    "correo":"lizethmonsalve@pacheco.net",
+    "telefono":"317 069 5560",
+    "activo":false
+  },
+  {
+    "id":"48784018-72ad-426a-8dd2-70c709cdcf90",
+    "nombre":"Mendoza-Mar\u00edn",
+    "nit":"616.453.454-7",
+    "sector":"salud",
+    "contacto":"Ana M\u00e1rquez Franco",
+    "correo":"edgargonzales@martinez-torres.nom.co",
+    "telefono":"+57 321-980-4184",
+    "activo":false
+  },
+  {
+    "id":"f9753350-2fec-404a-b73e-e6e0dd495333",
+    "nombre":"S\u00e1nchez-Hern\u00e1ndez",
+    "nit":"642.364.281-3",
+    "sector":"Industriales",
+    "contacto":"Mercedes Alexandra P\u00e1ez",
+    "correo":"nancycorrea@lara-moreno.net",
+    "telefono":"391 114 2817",
+    "activo":false
+  },
+  {
+    "id":"efa074e0-74fd-42c3-a98e-f3e805612197",
+    "nombre":" Ochoa, Vanegas and S\u00e1nchez ",
+    "nit":"230.524.808-8",
+    "sector":"tecnologicos",
+    "contacto":"Elena P\u00e9rez",
+    "correo":"isanchez@prieto.com.co",
+    "telefono":"+57 347-372-1329",
+    "activo":false
+  },
+  {
+    "id":"c93d5641-f29e-4b27-837d-d3e4d0b97ee5",
+    "nombre":"Mart\u00ednez Group",
+    "nit":"2047876886",
+    "sector":"turismo",
+    "contacto":"Joan Jhonny Mosquera Calder\u00f3n",
+    "correo":"hespinosa@perez-andrade.com",
+    "telefono":"3031954196",
+    "activo":true
+  },
+  {
+    "id":"cdecedd8-b57e-44e2-ab20-f13c00ff61cd",
+    "nombre":"Rivera-Arias",
+    "nit":"5730362792",
+    "sector":"textiles",
+    "contacto":"Jhon S\u00e1nchez",
+    "correo":"rubenmunoz@correa-restrepo.net",
+    "telefono":"372 603 2145",
+    "activo":true
+  },
+  {
+    "id":"ad0b0593-a385-4fd9-acbe-50baa3cc69c8",
+    "nombre":"Romero Group",
+    "nit":"619.458.870-7",
+    "sector":"industriales",
+    "contacto":"Gloria Diana Caballero",
+    "correo":"marialopez@amaya.net",
+    "telefono":"385 076 5975",
+    "activo":true
+  },
+  {
+    "id":"cb00b632-0147-428a-822e-2185569d6897",
+    "nombre":"Valencia, Morales and Meneses",
+    "nit":"9177680898",
+    "sector":"textiles",
+    "contacto":"Melba Ana Luna",
+    "correo":"alexander74@sanchez.com",
+    "telefono":"+57 396-463-0040",
+    "activo":false
+  },
+  {
+    "id":"6a8bdb39-9a8d-45a9-a382-92ddea35a848",
+    "nombre":"RAM\u00cdREZ PLC",
+    "nit":"362.689.430-1",
+    "sector":"salud",
+    "contacto":"Yolima Ortiz Ramos",
+    "correo":"torresnestor@velandia.com",
+    "telefono":"317 595 7498",
+    "activo":"0"
+  },
+  {
+    "id":"9d495d3c-41a8-404e-b57b-c36d2a9bfa3d",
+    "nombre":"Campo, Aguilar and Valencia",
+    "nit":"582.984.933-0",
+    "sector":"salud",
+    "contacto":null,
+    "correo":"zcardozo@cantillo.org",
+    "telefono":"3128333721",
+    "activo":false
+  },
+  {
+    "id":"9fdf24ff-bd0c-40ab-93d6-04229892ac09",
+    "nombre":"R\u00edos, Morales and Villamizar",
+    "nit":"6954132971",
+    "sector":"salud",
+    "contacto":"Franklin Andr\u00e9s Parra",
+    "correo":"esanchez@quintero.com",
+    "telefono":"+57 343-776-9366",
+    "activo":false
+  },
+  {
+    "id":"23480392-09a5-4503-9b5f-49a30140da33",
+    "nombre":" Guti\u00e9rrez PLC ",
+    "nit":"2529596111",
+    "sector":"industriales",
+    "contacto":"Fanny Mar\u00eda R\u00edos",
+    "correo":"ytriana@jaimes.com",
+    "telefono":"302 455 9102",
+    "activo":true
+  },
+  {
+    "id":"08791c0c-2144-49f0-9c12-46d1f75de403",
+    "nombre":"Valencia-G\u00f3mez",
+    "nit":"9109032671",
+    "sector":"tecnologicos",
+    "contacto":"Orlando Garz\u00f3n",
+    "correo":"roaamparo@restrepo.com",
+    "telefono":"+57 381-793-4065",
+    "activo":false
+  },
+  {
+    "id":"ef9c7d89-c9cb-4318-8a00-2e8719e7717f",
+    "nombre":"P\u00e9rez, Ortega and C\u00e1rdenas",
+    "nit":"8446634533",
+    "sector":"TEXTILES",
+    "contacto":"Carlos Carlos Garc\u00eda Fern\u00e1ndez",
+    "correo":"sanchezabraham@sanchez.org",
+    "telefono":"355 937 6618",
+    "activo":false
+  },
+  {
+    "id":"772247c5-5cf3-48b5-b1ef-8dcfb3468ad4",
+    "nombre":"Fern\u00e1ndez, Cuesta and Rojas",
+    "nit":"7052635100",
+    "sector":" turismo ",
+    "contacto":"Jhon Guerra",
+    "correo":"znavarro@prieto.nom.co",
+    "telefono":"3659202461",
+    "activo":false
+  },
+  {
+    "id":"dd201dbf-32d7-498d-ab38-ac14d56bfd69",
+    "nombre":"Pardo-Quintero",
+    "nit":"0238974326",
+    "sector":"turismo",
+    "contacto":"Constanza Barrera",
+    "correo":"francisco55@lopez.net",
+    "telefono":"3325848689",
+    "activo":false
+  },
+  {
+    "id":"83b758e3-8c02-4172-a396-4a58129dfa50",
+    "nombre":"Carmona, Ram\u00edrez and Solano",
+    "nit":"0798487045",
+    "sector":"textiles",
+    "contacto":"Adriana Pineda",
+    "correo":"ortegahenry@caro-leon.net",
+    "telefono":"3593744039",
+    "activo":true
+  },
+  {
+    "id":"cad28008-a066-4230-8618-0743d8cffd85",
+    "nombre":"Medina-Rodr\u00edguez",
+    "nit":"303.736.060-1",
+    "sector":"salud",
+    "contacto":"Sebasti\u00e1n Maldonado",
+    "correo":"urodriguezmesa.co",
+    "telefono":"3938841368",
+    "activo":true
+  },
+  {
+    "id":"d9e45fd1-ccc8-4e92-ab5d-382c213dc219",
+    "nombre":"Valencia, V\u00e1squez and Ram\u00edrez",
+    "nit":"615.370.124-2",
+    "sector":"textiles",
+    "contacto":"Fredy Guerrero",
+    "correo":"kramirez@lopez-montenegro.org",
+    "telefono":"388 112 1031",
+    "activo":true
+  },
+  {
+    "id":"f545191d-5cfa-4623-be15-70d7f47fd9e0",
+    "nombre":"Paz-Gonz\u00e1lez",
+    "nit":"751.887.817-9",
+    "sector":"tecnologicos",
+    "contacto":"Stiven Mosquera",
+    "correo":"romeroyulieth@vasquez.nom.co",
+    "telefono":"3091122528",
+    "activo":true
+  },
+  {
+    "id":"69406ac6-ab5c-415e-b86c-85ccc5336e16",
+    "nombre":"Lozano, Acosta and Velandia",
+    "nit":"5056618632",
+    "sector":"industriales",
+    "contacto":"Mercedes Daniela Orozco Benavides",
+    "correo":"hernansaavedra@velasquez-cruz.co",
+    "telefono":"+57 353-007-3095",
+    "activo":false
+  },
+  {
+    "id":"4a609dbc-f2dc-423c-9d72-0a0754e30a90",
+    "nombre":"Ojeda LLC",
+    "nit":"5605712198",
+    "sector":"Tecnologicos",
+    "contacto":"Elizabeth Leidy Cort\u00e9s",
+    "correo":"paola05@alvarez.org",
+    "telefono":"301 042 4624",
+    "activo":false
+  },
+  {
+    "id":"e6b373ec-8084-4a3a-9504-732791470562",
+    "nombre":"Gait\u00e1n-Bejarano",
+    "nit":"8517446004",
+    "sector":"textiles",
+    "contacto":"Juan Luis Hern\u00e1ndez",
+    "correo":"moralesdiana@solano-ruiz.com",
+    "telefono":"3293913044",
+    "activo":true
+  },
+  {
+    "id":"80a25b76-228c-4886-b126-e6df07318e7b",
+    "nombre":"TOVAR, BARRETO AND GARC\u00cdA",
+    "nit":"898.484.160-4",
+    "sector":"salud",
+    "contacto":"Luis Quintero Mena",
+    "correo":"patricianunez@rodriguez.co",
+    "telefono":"+57 368-142-9831",
+    "activo":"0"
+  },
+  {
+    "id":"8684e239-a2bf-4ed5-9905-093007d45058",
+    "nombre":"P\u00e9rez-Bernal",
+    "nit":"910.732.283-6",
+    "sector":"industriales",
+    "contacto":"Flor Pulido",
+    "correo":"jacquelinemoreno@rojas-soto.net",
+    "telefono":"384 526 9694",
+    "activo":true
+  },
+  {
+    "id":"a394d125-b9f5-42a4-8c36-7fedd3ed9685",
+    "nombre":"Vargas-Zuluaga",
+    "nit":"164.970.169-3",
+    "sector":" salud ",
+    "contacto":"Edgar Escobar",
+    "correo":"paradatatiana@gomez.nom.co",
+    "telefono":"+57 316-234-1903",
+    "activo":true
+  },
+  {
+    "id":"29c49d47-f571-4651-9df4-4005bb2149d4",
+    "nombre":"Gonz\u00e1lez, V\u00e9lez and Pe\u00f1a",
+    "nit":"5372215566",
+    "sector":"turismo",
+    "contacto":"\u00d3scar Ram\u00edrez",
+    "correo":"adrianaromero@andrade.org",
+    "telefono":"360 406 7200",
+    "activo":false
+  },
+  {
+    "id":"0b3b36c6-b21b-4a78-b77e-4e78b2a1b0f1",
+    "nombre":"Cruz, Guti\u00e9rrez and Pe\u00f1a",
+    "nit":"4244260781",
+    "sector":"textiles",
+    "contacto":"Javier Armando Cardona Pacheco",
+    "correo":"pedro64@ramos.com",
+    "telefono":"+57 303-763-8821",
+    "activo":false
+  },
+  {
+    "id":"c0132384-2071-4d22-9615-13b806053aeb",
+    "nombre":"Camargo-Guzm\u00e1n",
+    "nit":"1484601913",
+    "sector":"Textiles",
+    "contacto":"Antonio Vargas",
+    "correo":"antoniorendon@sanchez.co",
+    "telefono":"3869507321",
+    "activo":false
+  },
+  {
+    "id":"8abfe4a0-a3cc-463c-9deb-678407045323",
+    "nombre":"Su\u00e1rez, Cabrera and Vargas",
+    "nit":"493.699.951-6",
+    "sector":"textiles",
+    "contacto":"John Giovanny Valencia Andrade",
+    "correo":"jhoana38@rincon-osorio.co",
+    "telefono":"+57 301-192-3603",
+    "activo":"No"
+  },
+  {
+    "id":"d65d30be-7fe6-4558-b838-9b6096207539",
+    "nombre":" Pe\u00f1a-Orjuela ",
+    "nit":"1187233351",
+    "sector":"textiles",
+    "contacto":"Carmen Prada",
+    "correo":"rgonzalez@fernandez.co",
+    "telefono":"+57 339-114-9830",
+    "activo":false
+  },
+  {
+    "id":"f3341e1c-31ca-49d6-b53a-c6a569260d0f",
+    "nombre":"Barrios-R\u00edos",
+    "nit":"073.651.189-3",
+    "sector":"TURISMO",
+    "contacto":null,
+    "correo":"alfonso82@daza.com.co",
+    "telefono":"304 322 3023",
+    "activo":false
+  },
+  {
+    "id":"9216a6d5-3fa0-4c9b-bdb0-6de27d3a9f6d",
+    "nombre":"Ram\u00edrez LLC",
+    "nit":"7073920135",
+    "sector":"turismo",
+    "contacto":"Gerardo Mej\u00eda",
+    "correo":"palaciocecilia@rodriguez-rivera.co",
+    "telefono":"326 112 3126",
+    "activo":false
+  },
+  {
+    "id":"c8542d22-2d71-4feb-80bb-c5f094a9a5d9",
+    "nombre":"Mej\u00eda Ltd",
+    "nit":"2488899572",
+    "sector":"salud",
+    "contacto":"Virginia Fernanda Le\u00f3n Rosero",
+    "correo":"valentina93@vera.org",
+    "telefono":"3687191203",
+    "activo":false
+  },
+  {
+    "id":"770d1c3b-5efb-4490-b244-7c764b436c49",
+    "nombre":"Berm\u00fadez, Quiroga and Gonz\u00e1lez",
+    "nit":"769.208.283-2",
+    "sector":"textiles",
+    "contacto":"Valeria Johana Calder\u00f3n Loaiza",
+    "correo":"andresgarcia@montoya.com",
+    "telefono":"+57 320-673-2318",
+    "activo":false
+  },
+  {
+    "id":"af213660-f356-4ee2-994c-b9409c60d5e0",
+    "nombre":" Pineda Inc ",
+    "nit":"6815724500",
+    "sector":"TEXTILES",
+    "contacto":"Sara Guevara",
+    "correo":"alvaradodaniel@ruiz.net.co",
+    "telefono":"+57 391-137-1785",
+    "activo":false
+  },
+  {
+    "id":"926ee973-1858-49ad-bf66-12db633d3ede",
+    "nombre":"Mesa Ltd",
+    "nit":"9025561844",
+    "sector":"industriales",
+    "contacto":null,
+    "correo":"albertoescobar@gutierrez-guzman.com",
+    "telefono":"+57 322-489-0567",
+    "activo":false
+  },
+  {
+    "id":"0ba9e554-d26a-4d1f-9eea-f7d0808d8f33",
+    "nombre":"Palacios Group",
+    "nit":"0090043655",
+    "sector":"tecnologicos",
+    "contacto":"Gloria Roc\u00edo Contreras",
+    "correo":"hrivera@pena.co",
+    "telefono":"+57 335-505-4296",
+    "activo":true
+  },
+  {
+    "id":"033455d0-64eb-40d8-8871-7fdcd2bf5856",
+    "nombre":"G\u00f3mez, Forero and Pineda",
+    "nit":"0633699879",
+    "sector":"salud",
+    "contacto":"Kevin Jos\u00e9 Trujillo",
+    "correo":"carmenmartinez@chaparro.org",
+    "telefono":"3818804428",
+    "activo":"No"
+  },
+  {
+    "id":"02297910-e21b-4c51-a051-d01cc16001c7",
+    "nombre":"Sierra-Granados",
+    "nit":"836.381.643-2",
+    "sector":"industriales",
+    "contacto":"Patricia Alejandra Buitrago",
+    "correo":"josefranco@ariza.net",
+    "telefono":"362 586 3144",
+    "activo":false
+  },
+  {
+    "id":"018df545-a481-4794-8be1-70c7dfaa9643",
+    "nombre":"Restrepo Inc",
+    "nit":"646.255.402-6",
+    "sector":"turismo",
+    "contacto":null,
+    "correo":"jeanvallejo@camacho.co",
+    "telefono":"+57 346-448-9880",
+    "activo":false
+  },
+  {
+    "id":"380d9428-5f59-4a59-9109-a55b81af5cb5",
+    "nombre":"Ariza LLC",
+    "nit":"388.824.527-9",
+    "sector":" turismo ",
+    "contacto":"Gladys Herrera",
+    "correo":"eduardo04@ramirez.net",
+    "telefono":"3538495163",
+    "activo":true
+  },
+  {
+    "id":"55bd37f6-7e64-471a-91d4-42574f799848",
+    "nombre":"Cifuentes Inc",
+    "nit":"197.871.809-3",
+    "sector":"salud",
+    "contacto":"Stella Valentina Ram\u00edrez Rojas",
+    "correo":"ofranco@nieto.nom.co",
+    "telefono":"3119875617",
+    "activo":"1"
+  },
+  {
+    "id":"8a52faf4-6aac-4490-a9d7-1ec06c62f2a1",
+    "nombre":"Andrade, Pati\u00f1o and Pinz\u00f3n",
+    "nit":"8002300915",
+    "sector":"Tecnologicos",
+    "contacto":"Luis Hern\u00e1ndez Hurtado",
+    "correo":"vargasleonor@henao-zapata.nom.co",
+    "telefono":"3491609365",
+    "activo":true
+  },
+  {
+    "id":"f52f9a3e-1527-45b7-ba34-d7d76bc8978a",
+    "nombre":" Mercado, Hern\u00e1ndez and Mart\u00ednez ",
+    "nit":"491.189.418-4",
+    "sector":"tecnologicos",
+    "contacto":"Martha M\u00f3nica Herrera Rodr\u00edguez",
+    "correo":"alfonsoparra@aguilar.net",
+    "telefono":"3998213745",
+    "activo":true
+  },
+  {
+    "id":"12d82562-b467-4a87-befe-5f626f98861b",
+    "nombre":"Guerrero-L\u00f3pez",
+    "nit":"0428860505",
+    "sector":"TEXTILES",
+    "contacto":"Esther Elena Mej\u00eda Mercado",
+    "correo":"delgadodiana@hernandez.com",
+    "telefono":"3308356691",
+    "activo":true
+  },
+  {
+    "id":"c859043f-17df-4aec-81f6-89a0e98a38bc",
+    "nombre":"Giraldo Ltd",
+    "nit":"7153123455",
+    "sector":"turismo",
+    "contacto":"Maribel Palacios",
+    "correo":"shirleygonzalez@sanabria.com",
+    "telefono":"393 844 0134",
+    "activo":true
+  },
+  {
+    "id":"65d3bc22-18f7-47e3-a633-4787155f2e16",
+    "nombre":"Rodr\u00edguez, Silva and Cardona",
+    "nit":"3543788260",
+    "sector":"tecnologicos",
+    "contacto":"Martha Liliana Vanegas Mart\u00ednez",
+    "correo":"yesenia09@palacios.com.co",
+    "telefono":"3144920749",
+    "activo":false
+  },
+  {
+    "id":"7a44f4d6-d885-45a5-94a0-20043d4a9a94",
+    "nombre":" Castillo PLC ",
+    "nit":"9969964899",
+    "sector":"industriales",
+    "contacto":"Luis Cristian S\u00e1nchez P\u00e1ez",
+    "correo":"khenao@sanchez.com",
+    "telefono":"340 849 9323",
+    "activo":true
+  },
+  {
+    "id":"786aa27c-b2dd-47f5-bd84-a840c5a6426c",
+    "nombre":" D\u00edaz and Sons ",
+    "nit":"426.698.069-0",
+    "sector":"Textiles",
+    "contacto":"Carlos Leonardo Cruz Guerrero",
+    "correo":"bedoyacarolina@alvarez.net",
+    "telefono":"+57 389-359-5382",
+    "activo":true
+  },
+  {
+    "id":"1d566d7a-9a42-4a5b-9483-df6f86c68798",
+    "nombre":"TRIANA, URIBE AND PEREA",
+    "nit":"4056129965",
+    "sector":"tecnologicos",
+    "contacto":"Esperanza Miranda",
+    "correo":"marianacastellanos@buitrago.co",
+    "telefono":"+57 369-656-1308",
+    "activo":true
+  },
+  {
+    "id":"f8c5e42f-3c61-4dfc-b18a-acff26c2081a",
+    "nombre":"Montes-L\u00f3pez",
+    "nit":"2385951434",
+    "sector":"INDUSTRIALES",
+    "contacto":"\u00c1ngel Moreno Rosero",
+    "correo":"gustavo40@roa.co",
+    "telefono":"330 086 9661",
+    "activo":true
+  },
+  {
+    "id":"5923130e-adfd-467c-9a69-21d6a14bbeb8",
+    "nombre":"Gonz\u00e1lez Group",
+    "nit":"831.139.500-1",
+    "sector":"Textiles",
+    "contacto":"Cristian \u00c1vila Castro",
+    "correo":"fernando15@cardenas.net.co",
+    "telefono":"383 976 2053",
+    "activo":true
+  },
+  {
+    "id":"b2ad64c1-d60d-45e5-a830-eb8833606d58",
+    "nombre":"Castro, Rodr\u00edguez and Zapata",
+    "nit":"7946207266",
+    "sector":"salud",
+    "contacto":"Stella Herrera Cort\u00e9s",
+    "correo":"canoamelia@luna.com",
+    "telefono":"+57 399-140-6884",
+    "activo":"1"
+  },
+  {
+    "id":"8cf53ac8-e296-4b2e-9b0e-e7b0ea089583",
+    "nombre":"Manrique and Sons",
+    "nit":"373.125.523-5",
+    "sector":"TURISMO",
+    "contacto":"Luis V\u00e1squez Garc\u00eda",
+    "correo":"ramirezalbert@buitrago.com.co",
+    "telefono":"3206136385",
+    "activo":false
+  },
+  {
+    "id":"2584f8bf-ff3b-4375-8ff9-8e6536ab3030",
+    "nombre":"Correa PLC",
+    "nit":"956.133.718-4",
+    "sector":"Turismo",
+    "contacto":"Fernando Mart\u00ednez",
+    "correo":"wilsonruiz@alvarado.co",
+    "telefono":"+57 301-644-0373",
+    "activo":false
+  },
+  {
+    "id":"8e409ba7-4a4b-485a-82c3-929bde261d29",
+    "nombre":"Vargas, L\u00f3pez and Correa",
+    "nit":"127.782.210-2",
+    "sector":"Tecnologicos",
+    "contacto":null,
+    "correo":"sandraramirez@granados.co",
+    "telefono":"3797363831",
+    "activo":true
+  },
+  {
+    "id":"9a697b1a-7ca7-49aa-bbf0-5068492843d4",
+    "nombre":"D\u00edaz, Carrillo and Ruiz",
+    "nit":"0539707986",
+    "sector":"salud",
+    "contacto":"H\u00e9ctor Portilla C\u00e1rdenas",
+    "correo":"castilloduvan@galeano.com",
+    "telefono":"3050682122",
+    "activo":true
+  },
+  {
+    "id":"ba21be54-1c4d-4ab6-82b2-427d3014b81c",
+    "nombre":"M\u00e9ndez LLC",
+    "nit":"2165058714",
+    "sector":"salud",
+    "contacto":"Juli\u00e1n Ardila Guzm\u00e1n",
+    "correo":"patriciajaramillo@jaramillo-tamayo.com.co",
+    "telefono":"308 984 3699",
+    "activo":false
+  },
+  {
+    "id":"d0b62cc6-1fec-43a5-acd4-d7687e107fa7",
+    "nombre":" Guti\u00e9rrez, V\u00e1squez and Rodr\u00edguez ",
+    "nit":"220.509.386-9",
+    "sector":"tecnologicos",
+    "contacto":"Alfonso Jim\u00e9nez",
+    "correo":"stellacalderon@leon.com",
+    "telefono":"345 788 7071",
+    "activo":false
+  },
+  {
+    "id":"1f16b124-9988-40cb-bc9f-1a80b19747fb",
+    "nombre":"Salgado-Moreno",
+    "nit":"8676738209",
+    "sector":"turismo",
+    "contacto":"Fernando Adolfo Corredor Mart\u00ednez",
+    "correo":"izapataflorez-sanchez.com.co",
+    "telefono":"+57 396-872-2589",
+    "activo":true
+  },
+  {
+    "id":"325d0857-2010-4e0d-a5d3-df8bc4b729dc",
+    "nombre":"ZAPATA LTD",
+    "nit":"085.806.235-0",
+    "sector":"tecnologicos",
+    "contacto":"Alex Vergara",
+    "correo":"alfonso66@beltran.com",
+    "telefono":"+57 312-482-5544",
+    "activo":true
+  },
+  {
+    "id":"db873a9c-bb89-4863-afad-3acde187f2ff",
+    "nombre":"Betancur Group",
+    "nit":"796.325.942-3",
+    "sector":"tecnologicos",
+    "contacto":"Flor Mena Sanabria",
+    "correo":"oserrano@vasquez.com",
+    "telefono":"356 241 5285",
+    "activo":false
+  },
+  {
+    "id":"26d63b83-1910-4d12-b5f3-7798adc29241",
+    "nombre":"Villamil, Ramos and Caro",
+    "nit":"5629269335",
+    "sector":"salud",
+    "contacto":"Luis Ramiro Ballesteros",
+    "correo":"velasquezsocorro@rodriguez-jaimes.co",
+    "telefono":"+57 346-850-9574",
+    "activo":"0"
+  },
+  {
+    "id":"8fe225fe-ba77-4e0d-9479-5afb65034ed9",
+    "nombre":"Torres-Ram\u00edrez",
+    "nit":"918.911.797-2",
+    "sector":" textiles ",
+    "contacto":"Diana Roa",
+    "correo":"carlos40velasco.co",
+    "telefono":"341 547 1553",
+    "activo":false
+  },
+  {
+    "id":"f0ed6a34-c2c5-41b5-a5de-8990350ae9c1",
+    "nombre":"Rojas and Sons",
+    "nit":"5936781367",
+    "sector":"TECNOLOGICOS",
+    "contacto":"Jos\u00e9 Edilson Ortiz",
+    "correo":"jhonfranco@gutierrez.com",
+    "telefono":"352 769 8198",
+    "activo":true
+  },
+  {
+    "id":"5a7ce701-4925-4876-b8da-1839b592741e",
+    "nombre":"Londo\u00f1o-Calder\u00f3n",
+    "nit":"270.452.388-8",
+    "sector":"textiles",
+    "contacto":"Diego Giovanny Betancur",
+    "correo":"uguerrero@mora.co",
+    "telefono":"+57 344-227-5854",
+    "activo":false
+  },
+  {
+    "id":"bdd1ac24-0d0e-485c-b091-16cf00639720",
+    "nombre":"BARRERA, ARDILA AND SALAZAR",
+    "nit":"559.428.249-1",
+    "sector":"salud",
+    "contacto":"Mariana Fernanda Quintero",
+    "correo":"leonrodriguez@gomez.co",
+    "telefono":"3393132155",
+    "activo":true
+  },
+  {
+    "id":"3279fea1-81f8-492f-8079-5ecca62dccde",
+    "nombre":"Rojas LLC",
+    "nit":"570.836.821-4",
+    "sector":"salud",
+    "contacto":"Jorge Guzm\u00e1n",
+    "correo":"nflorez@rincon.net",
+    "telefono":"3677462025",
+    "activo":"0"
+  },
+  {
+    "id":"8279c7c6-91a9-4f2f-8d69-7ef3b0b19d9b",
+    "nombre":" Bustamante, Rueda and Villegas ",
+    "nit":"4318328123",
+    "sector":" tecnologicos ",
+    "contacto":null,
+    "correo":"pinedaantonio@rivera.com",
+    "telefono":"383 647 2387",
+    "activo":false
+  },
+  {
+    "id":"8921479f-b4cd-4f45-87cd-7f717b3ae522",
+    "nombre":"Rodr\u00edguez-P\u00e9rez",
+    "nit":"7681722577",
+    "sector":"turismo",
+    "contacto":"Fernando Geovanny Londo\u00f1o",
+    "correo":"michel62@valderrama.co",
+    "telefono":"+57 376-831-6082",
+    "activo":true
+  },
+  {
+    "id":"f20aed84-3da3-4adc-9353-1f71e9ddfc24",
+    "nombre":"MENDOZA, GONZ\u00c1LEZ AND CORREA",
+    "nit":"1733739920",
+    "sector":"textiles",
+    "contacto":"Juan Carlos Pedraza",
+    "correo":"jairorangel@ardila.net.co",
+    "telefono":"3914388232",
+    "activo":false
+  },
+  {
+    "id":"be4dd74e-7d04-4bcc-b928-c8db2ed27875",
+    "nombre":"Arango-Narv\u00e1ez",
+    "nit":"398.358.446-1",
+    "sector":"textiles",
+    "contacto":"Nelson Miguel Sarmiento Rinc\u00f3n",
+    "correo":"mariogutierrez@jaramillo.org",
+    "telefono":"397 912 7997",
+    "activo":"SI"
+  },
+  {
+    "id":"0bbb30d1-c805-4980-bb93-c41e0c061a1f",
+    "nombre":"D\u00edaz and Sons",
+    "nit":"712.053.978-7",
+    "sector":"textiles",
+    "contacto":"Sandra Sonia Figueroa",
+    "correo":"carlosvelasquez@vargas.com",
+    "telefono":"325 608 3200",
+    "activo":true
+  },
+  {
+    "id":"5c4fd120-e8e5-41ed-b3b0-6519fde58d8b",
+    "nombre":"Ochoa-Reyes",
+    "nit":"788.897.535-8",
+    "sector":"textiles",
+    "contacto":"Juan Leonardo Medina",
+    "correo":"veraharold@ramirez.org",
+    "telefono":"+57 336-199-5171",
+    "activo":true
+  },
+  {
+    "id":"3f61fe50-37db-4d1f-b96d-7a63110f6ff0",
+    "nombre":"PALACIO-P\u00c9REZ",
+    "nit":"391.029.295-0",
+    "sector":"salud",
+    "contacto":null,
+    "correo":"luzbravo@escobar.com",
+    "telefono":"+57 339-719-1260",
+    "activo":false
+  },
+  {
+    "id":"9ebcaa00-dc43-4785-b344-48cb3b6113f9",
+    "nombre":"S\u00e1nchez, S\u00e1nchez and Rojas",
+    "nit":"176.720.191-1",
+    "sector":"turismo",
+    "contacto":"Liliana Luz Barreto",
+    "correo":"gonzalezoscar@hernandez-herrera.nom.co",
+    "telefono":"387 339 3049",
+    "activo":true
+  },
+  {
+    "id":"73124acf-989d-42fc-82d9-d3cf026c10b0",
+    "nombre":"Mej\u00eda LLC",
+    "nit":"380.274.812-4",
+    "sector":"tecnologicos",
+    "contacto":"Luz Guti\u00e9rrez Angulo",
+    "correo":"ipineda@estrada-escobar.co",
+    "telefono":"3229462093",
+    "activo":false
+  },
+  {
+    "id":"de16bba8-f2d3-4c0c-86d3-f5a067290b46",
+    "nombre":"Sanabria, Portilla and Romero",
+    "nit":"6103995297",
+    "sector":"tecnologicos",
+    "contacto":"Yulieth Torres",
+    "correo":"rgonzalez@salazar.co",
+    "telefono":"+57 358-564-2304",
+    "activo":false
+  },
+  {
+    "id":"7cb1efcc-3234-4b3d-8b75-4e45059a0a24",
+    "nombre":"Campo and Sons",
+    "nit":"0270615927",
+    "sector":"salud",
+    "contacto":"Yaneth Isabel P\u00e9rez Beltr\u00e1n",
+    "correo":"fpinzon@osorio-vega.co",
+    "telefono":"+57 332-248-1554",
+    "activo":false
+  },
+  {
+    "id":"14dbea95-be63-40e1-a339-6852f26e93cb",
+    "nombre":"Ni\u00f1o Ltd",
+    "nit":"034.030.109-5",
+    "sector":"turismo",
+    "contacto":"Robert Ospina Solano",
+    "correo":"yarias@trujillo-arias.com.co",
+    "telefono":"+57 355-462-3471",
+    "activo":true
+  },
+  {
+    "id":"d31dfe8f-ddba-47da-9f61-e2249cb38207",
+    "nombre":" Perea LLC ",
+    "nit":"760.108.018-1",
+    "sector":"TECNOLOGICOS",
+    "contacto":"Sandra Ar\u00e9valo",
+    "correo":"gcortes@castillo-castellanos.com",
+    "telefono":"3726808081",
+    "activo":true
+  },
+  {
+    "id":"26e39947-0d7c-497e-881d-0e8289ef7fcd",
+    "nombre":"Camacho, Cardona and S\u00e1nchez",
+    "nit":"015.071.380-6",
+    "sector":"tecnologicos",
+    "contacto":"Luis Andr\u00e9s Amaya Quintero",
+    "correo":"guerraalexandra@posada.co",
+    "telefono":"3213009625",
+    "activo":true
+  },
+  {
+    "id":"6d05aedb-b8ba-4474-aa03-1a77fa567f00",
+    "nombre":"ESTRADA, BUITRAGO AND CARDONA",
+    "nit":"694.703.180-5",
+    "sector":"turismo",
+    "contacto":null,
+    "correo":"armandovillegas@caballero-velasco.co",
+    "telefono":"362 159 1832",
+    "activo":"0"
+  },
+  {
+    "id":"44ed6979-d26c-4257-9b8d-166c0a2e8fb6",
+    "nombre":"M\u00c1RQUEZ, RODR\u00cdGUEZ AND MART\u00cdNEZ",
+    "nit":"466.614.590-1",
+    "sector":"tecnologicos",
+    "contacto":"Mar\u00eda Elizabeth Soto",
+    "correo":"caromaria@hoyos.co",
+    "telefono":"+57 319-490-5315",
+    "activo":false
+  },
+  {
+    "id":"8e59af27-cd92-4dfd-b0fd-8c10a8592ad4",
+    "nombre":" G\u00f3mez PLC ",
+    "nit":"980.949.769-8",
+    "sector":" turismo ",
+    "contacto":"Leonardo Augusto Ram\u00edrez Vega",
+    "correo":"aguilarnidia@zambrano.com",
+    "telefono":"3237407794",
+    "activo":true
+  },
+  {
+    "id":"fbf1b9df-2180-4f0a-b2d6-c06ef2be6262",
+    "nombre":"MORENO AND SONS",
+    "nit":"562.389.949-9",
+    "sector":"tecnologicos",
+    "contacto":"Iris In\u00e9s Rodr\u00edguez",
+    "correo":"claudia62@rojas.co",
+    "telefono":"3782116020",
+    "activo":true
+  },
+  {
+    "id":"34a03684-b9c6-403a-a6aa-240e80b22980",
+    "nombre":" Arenas, M\u00e9ndez and L\u00f3pez ",
+    "nit":"8135998989",
+    "sector":"turismo",
+    "contacto":"Leandro Efrain Garc\u00eda Mar\u00edn",
+    "correo":"arizaandres@fernandez.com",
+    "telefono":"+57 318-644-8221",
+    "activo":true
+  },
+  {
+    "id":"38a0baff-183d-4bf2-aa25-39dafe2017cd",
+    "nombre":" Monroy-Loaiza ",
+    "nit":"8839785708",
+    "sector":"tecnologicos",
+    "contacto":"Mar\u00eda Rodr\u00edguez Montoya",
+    "correo":"eortegalopez.co",
+    "telefono":"3914961128",
+    "activo":"No"
+  },
+  {
+    "id":"f74535f7-88fb-449f-8e02-532393c87794",
+    "nombre":"Gil-Vega",
+    "nit":"2968827697",
+    "sector":"salud",
+    "contacto":"Marcela Fern\u00e1ndez",
+    "correo":"alejandromunoz@angulo.com",
+    "telefono":"356 078 3274",
+    "activo":true
+  },
+  {
+    "id":"8cd08e92-1e2e-4c19-a51b-dce0732b3750",
+    "nombre":"Santos, Barrios and Vel\u00e1squez",
+    "nit":"5651796240",
+    "sector":"turismo",
+    "contacto":"Hernando Guti\u00e9rrez Le\u00f3n",
+    "correo":"uvasquezrubio-osorio.org",
+    "telefono":"3784217028",
+    "activo":true
+  },
+  {
+    "id":"7f1bb3a4-dfad-4cd8-848d-f5219fbaaa97",
+    "nombre":"L\u00f3pez-S\u00e1nchez",
+    "nit":"5936488208",
+    "sector":"Tecnologicos",
+    "contacto":"Marcela Alejandra Benavides Torres",
+    "correo":"rangelmarcela@medina-sanchez.co",
+    "telefono":"3799160911",
+    "activo":false
+  },
+  {
+    "id":"3a11e7ca-b6be-46a8-b9ac-56b71dd68db7",
+    "nombre":"Garc\u00eda-Molano",
+    "nit":"193.592.361-3",
+    "sector":"Tecnologicos",
+    "contacto":"Leidy Adriana Rodr\u00edguez D\u00edaz",
+    "correo":"mariamunoz@palacios.nom.co",
+    "telefono":"302 544 7241",
+    "activo":true
+  },
+  {
+    "id":"fcf5596b-ed0f-4f61-a44e-828f9100a3d4",
+    "nombre":"L\u00f3pez, Ruiz and G\u00f3mez",
+    "nit":"3440966177",
+    "sector":" turismo ",
+    "contacto":null,
+    "correo":"vasquezjefferson@rodriguez.com",
+    "telefono":"+57 314-174-6813",
+    "activo":true
+  },
+  {
+    "id":"8aafee87-056f-468c-9c97-c618b7f065de",
+    "nombre":"Trujillo-Villegas",
+    "nit":"6486989396",
+    "sector":"salud",
+    "contacto":"Jes\u00fas Alfonso Ospina Pacheco",
+    "correo":"valenciajuan@arenas-martinez.com",
+    "telefono":"3929207536",
+    "activo":"0"
+  },
+  {
+    "id":"dbf98bd3-fc41-4332-ac0e-77559902cc98",
+    "nombre":"G\u00f3mez, Gonz\u00e1lez and Ortega",
+    "nit":"603.988.636-5",
+    "sector":"textiles",
+    "contacto":"Adriana Sonia Hern\u00e1ndez Molina",
+    "correo":"teresa90@reyes-martinez.com.co",
+    "telefono":"394 248 9420",
+    "activo":false
+  },
+  {
+    "id":"c7860c3d-936c-4d7a-ac97-a2e9185cbf99",
+    "nombre":"C\u00e1ceres-Molano",
+    "nit":"489.667.605-6",
+    "sector":"tecnologicos",
+    "contacto":"Carlos Fonseca",
+    "correo":"eugenia57@herrera-galindo.com.co",
+    "telefono":"+57 374-533-8906",
+    "activo":true
+  },
+  {
+    "id":"d7271557-0761-4d30-a96a-99a4b31e68d0",
+    "nombre":"Vargas LLC",
+    "nit":"466.226.540-1",
+    "sector":"industriales",
+    "contacto":"V\u00edctor Agudelo Romero",
+    "correo":"rodriguezleon@perez-diaz.com",
+    "telefono":"324 276 7746",
+    "activo":false
+  },
+  {
+    "id":"9400cfd3-a077-409d-8082-865736232665",
+    "nombre":"Cabrera PLC",
+    "nit":"1601124115",
+    "sector":"salud",
+    "contacto":"Sebasti\u00e1n Delgado",
+    "correo":"achacon@rodriguez.co",
+    "telefono":"3778231299",
+    "activo":true
+  },
+  {
+    "id":"96f5098b-7617-42e0-a06c-895eb6d6fc6b",
+    "nombre":"MAR\u00cdN-SERNA",
+    "nit":"047.264.261-2",
+    "sector":" industriales ",
+    "contacto":"Aurora Mar\u00eda Contreras",
+    "correo":"felipeloaiza@torres-herrera.com.co",
+    "telefono":"368 078 5254",
+    "activo":true
+  },
+  {
+    "id":"9207aa68-b6b2-4514-9fda-34e3aa65a956",
+    "nombre":"P\u00c9REZ, HERN\u00c1NDEZ AND SANDOVAL",
+    "nit":"3854540064",
+    "sector":"industriales",
+    "contacto":"Augusto Guti\u00e9rrez",
+    "correo":"jquintero@meza.com",
+    "telefono":"3232748979",
+    "activo":true
+  },
+  {
+    "id":"b7824b3f-87cd-4118-94a3-b13655dcb4f1",
+    "nombre":"Ayala, Garc\u00eda and Mendoza",
+    "nit":"633.427.203-8",
+    "sector":"tecnologicos",
+    "contacto":"H\u00e9ctor Fonseca Burbano",
+    "correo":"alejandro80@calderon.net",
+    "telefono":"+57 304-530-6935",
+    "activo":true
+  },
+  {
+    "id":"1eb19ee0-b38a-4a36-bc38-cb1540884b16",
+    "nombre":"V\u00e1squez, Salcedo and Ortiz",
+    "nit":"3534001816",
+    "sector":"turismo",
+    "contacto":"Felipe Jorge Espitia Ben\u00edtez",
+    "correo":"herney44@alarcon-pedraza.org",
+    "telefono":"+57 346-083-8517",
+    "activo":true
+  },
+  {
+    "id":"e00f3bbb-2f8b-4d00-8303-887e52bd4df1",
+    "nombre":"BELTR\u00c1N, CARDONA AND P\u00c1EZ",
+    "nit":"1053912878",
+    "sector":"tecnologicos",
+    "contacto":null,
+    "correo":"hojeda@castano.com.co",
+    "telefono":"304 579 2714",
+    "activo":true
+  },
+  {
+    "id":"7e016a80-6baf-4cd2-a0bb-1ee56718e544",
+    "nombre":"Duarte-Mu\u00f1oz",
+    "nit":"301.986.424-2",
+    "sector":"Turismo",
+    "contacto":"Marta Camila Vega P\u00e9rez",
+    "correo":"leidymercado@obando.net.co",
+    "telefono":"3870629328",
+    "activo":false
+  },
+  {
+    "id":"e0bce9bf-7828-4e6f-8843-794e194d4e71",
+    "nombre":"SALGADO, AMAYA AND VEL\u00c1SQUEZ",
+    "nit":"322.101.023-2",
+    "sector":"industriales",
+    "contacto":null,
+    "correo":"yrestrepo@gomez.co",
+    "telefono":"+57 398-761-0814",
+    "activo":true
+  },
+  {
+    "id":"b5bf68b3-f0c1-4727-9218-2f54179efd9d",
+    "nombre":"ARIAS INC",
+    "nit":"4038453198",
+    "sector":"industriales",
+    "contacto":"Ingrid Castro",
+    "correo":"elenaalvarez@ruiz.com",
+    "telefono":"330 762 0545",
+    "activo":true
+  },
+  {
+    "id":"2cce8ea3-7375-449d-9c0c-f17d77fa5b1d",
+    "nombre":"Fern\u00e1ndez, Mendoza and Garc\u00eda",
+    "nit":"006.666.411-0",
+    "sector":"salud",
+    "contacto":"An\u00edbal Jim\u00e9nez Garc\u00eda",
+    "correo":"ruedastiven@ospino.co",
+    "telefono":"+57 385-169-9497",
+    "activo":true
+  },
+  {
+    "id":"7378c1bd-b322-4533-ace8-2dea7feeb3fa",
+    "nombre":"Guzm\u00e1n Inc",
+    "nit":"583.668.348-2",
+    "sector":"salud",
+    "contacto":"Sebasti\u00e1n Ospina Trujillo",
+    "correo":"yuliethcruz@silva.co",
+    "telefono":"+57 388-891-7879",
+    "activo":false
+  },
+  {
+    "id":"c1034748-dbce-46e1-9803-c08bcd3c855e",
+    "nombre":"MORALES LLC",
+    "nit":"962.571.976-0",
+    "sector":"industriales",
+    "contacto":"Patricia Gilma Hern\u00e1ndez Rangel",
+    "correo":"elvia89@serrano.com",
+    "telefono":"3809521755",
+    "activo":false
+  },
+  {
+    "id":"d05552f1-eb16-43c5-bd82-bae2b81c3c3b",
+    "nombre":"\u00c1lvarez, Yepes and Cruz",
+    "nit":"7412746921",
+    "sector":"turismo",
+    "contacto":"Luisa Fanny Franco",
+    "correo":"blancaleon@castillo.com",
+    "telefono":"+57 329-758-9170",
+    "activo":false
+  },
+  {
+    "id":"69320ff2-4cb0-4b3c-a339-158685221833",
+    "nombre":"Rangel, Caro and Ortiz",
+    "nit":"5421854570",
+    "sector":"salud",
+    "contacto":"\u00d3scar Alfonso Rodr\u00edguez",
+    "correo":"carmenpolo@serrano-blanco.com",
+    "telefono":"+57 301-635-6407",
+    "activo":"No"
+  },
+  {
+    "id":"dfd0af5e-c213-460a-9e6e-4258fe9695f3",
+    "nombre":"Rojas and Sons",
+    "nit":"4728289540",
+    "sector":"turismo",
+    "contacto":null,
+    "correo":"ceciliamunoz@moreno-hernandez.co",
+    "telefono":"3168507105",
+    "activo":true
+  },
+  {
+    "id":"71409bd3-4039-4360-9f37-f61c3b1b1160",
+    "nombre":"BEDOYA, GALLEGO AND MART\u00cdNEZ",
+    "nit":"1950927115",
+    "sector":"tecnologicos",
+    "contacto":"Fernanda Cano G\u00f3mez",
+    "correo":"lorena70@hernandez.co",
+    "telefono":"+57 395-007-4189",
+    "activo":false
+  },
+  {
+    "id":"584acef8-4506-4d79-8848-4746da5838ad",
+    "nombre":"Londo\u00f1o-Valencia",
+    "nit":"4329876989",
+    "sector":"industriales",
+    "contacto":"Karol Adriana Hern\u00e1ndez Mu\u00f1oz",
+    "correo":"acastaneda@lopez.com",
+    "telefono":"+57 373-481-3104",
+    "activo":false
+  },
+  {
+    "id":"c2e971b9-931e-45d0-b782-b1d2675b3d51",
+    "nombre":"G\u00d3MEZ-ROMERO",
+    "nit":"896.321.743-5",
+    "sector":"turismo",
+    "contacto":"Antonio Alonso Bravo Quintero",
+    "correo":"marisolmartinez@gonzales-mejia.nom.co",
+    "telefono":"3673983448",
+    "activo":false
+  },
+  {
+    "id":"a5039405-1d43-4df7-9b8e-72c758d7bdb7",
+    "nombre":"RAM\u00cdREZ, SU\u00c1REZ AND D\u00cdAZ",
+    "nit":"364.628.055-0",
+    "sector":"salud",
+    "contacto":"Nicol\u00e1s Edilberto Rueda Medina",
+    "correo":"wbeltran@morales.com",
+    "telefono":"3392090855",
+    "activo":"1"
+  },
+  {
+    "id":"f4cb615c-2d6b-4fa5-b038-f38fe29e015e",
+    "nombre":"G\u00f3mez Ltd",
+    "nit":"4091311178",
+    "sector":"salud",
+    "contacto":"Luis Rengifo Rodr\u00edguez",
+    "correo":"ricardo76@pacheco.com",
+    "telefono":"+57 306-953-5412",
+    "activo":false
+  },
+  {
+    "id":"f581cf0d-0da4-420f-8f50-f782c8779d28",
+    "nombre":"SANTOS LTD",
+    "nit":"2275950026",
+    "sector":"industriales",
+    "contacto":"Mar\u00eda Gonz\u00e1lez",
+    "correo":"nelsongranados@parada-hoyos.net.co",
+    "telefono":"+57 394-795-0740",
+    "activo":true
+  },
+  {
+    "id":"c26e403f-25b8-42e7-bc3d-2f01101d7ccc",
+    "nombre":"L\u00f3pez-Mar\u00edn",
+    "nit":"3279805950",
+    "sector":"turismo",
+    "contacto":"Nelly Fabiola Mart\u00ednez Riascos",
+    "correo":"rene93@perdomo-rodriguez.nom.co",
+    "telefono":"+57 391-045-2036",
+    "activo":true
+  },
+  {
+    "id":"b5e3ee69-b4f0-4b52-bc03-332d31ecbb94",
+    "nombre":"Mora Ltd",
+    "nit":"4118491359",
+    "sector":"tecnologicos",
+    "contacto":"Geraldine Mosquera Ochoa",
+    "correo":"ferneyduque@sanchez-morales.com",
+    "telefono":"+57 300-679-9006",
+    "activo":"1"
+  },
+  {
+    "id":"989d15e6-a702-4b7b-bde7-7a014f4ed9b9",
+    "nombre":"Osorio, Caro and Bravo",
+    "nit":"018.677.403-7",
+    "sector":"salud",
+    "contacto":"Edgar Hern\u00e1ndez",
+    "correo":"alexanderjaramillo@suarez-bermudez.co",
+    "telefono":"330 067 7625",
+    "activo":"1"
+  },
+  {
+    "id":"0ebb7256-3c34-4d56-ae7f-ec84f63af6da",
+    "nombre":"Rodr\u00edguez-P\u00e9rez",
+    "nit":"5017365426",
+    "sector":"turismo",
+    "contacto":"Isabel Cruz Mu\u00f1oz",
+    "correo":"mendezalexander@narvaez.org",
+    "telefono":"+57 351-100-9060",
+    "activo":"1"
+  },
+  {
+    "id":"415967fe-e408-46c4-8c71-0d296752ded3",
+    "nombre":"Vargas-Henao",
+    "nit":"886.843.021-1",
+    "sector":"turismo",
+    "contacto":"Jhon Torres Hern\u00e1ndez",
+    "correo":"castrojavier@quintero-pardo.com.co",
+    "telefono":"3887592129",
+    "activo":true
+  },
+  {
+    "id":"38ddceb2-57ff-4521-b4d0-aa83eb83f6cc",
+    "nombre":" Vega, Salazar and P\u00e9rez ",
+    "nit":"0336202755",
+    "sector":"tecnologicos",
+    "contacto":"Mar\u00eda Restrepo Restrepo",
+    "correo":"velezcarmen@gonzalez-meneses.com",
+    "telefono":"3380236219",
+    "activo":true
+  },
+  {
+    "id":"6b596381-d6e0-4826-b53e-85c031e3149c",
+    "nombre":"Dur\u00e1n, Mart\u00ednez and Fajardo",
+    "nit":"818.970.591-6",
+    "sector":"industriales",
+    "contacto":null,
+    "correo":"vanessa81@fernandez.nom.co",
+    "telefono":"3721688005",
+    "activo":false
+  },
+  {
+    "id":"4dfea93c-e1c0-410f-9b75-23a6d99e17b4",
+    "nombre":"Acosta Ltd",
+    "nit":"931.869.289-7",
+    "sector":"Salud",
+    "contacto":"Mariela Castro Salamanca",
+    "correo":"arturo18@perez.com",
+    "telefono":"3002839482",
+    "activo":true
+  },
+  {
+    "id":"2b6de806-a55a-4627-b705-cb2ef5a9b219",
+    "nombre":"Carmona, Gonz\u00e1les and Hern\u00e1ndez",
+    "nit":"204.144.743-2",
+    "sector":"salud",
+    "contacto":"Mar\u00eda Yurany Arteaga",
+    "correo":"diegosandoval@pineda.net",
+    "telefono":"+57 304-232-2775",
+    "activo":true
+  }
+]

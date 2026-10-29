@@ -1,0 +1,301 @@
+id;nombre;nit;sector;contacto;correo;telefono;activo
+e10b9320-94d4-4242-a6aa-fdc6d560c054;Mercado, Pérez and Castro;240.903.678-8;salud;Ana Janeth Flórez;rcastillo@diaz.com.co;339 087 8844;True
+f2bf4ea2-d126-42ca-8bcf-7d06258d3f14;Jiménez LLC;812.308.340-2;salud;Edilberto Ortiz;bedoyatatiana@lozano.net.co;3595518426;True
+211c8557-2005-483d-bcf6-c7b6f3456f16;Jiménez, Bustamante and Pineda;053.424.089-1;Industriales;Esneider Muñoz Pineda;victortorres@ramirez-mendez.co;+57 327-365-2717;False
+59531719-be05-47e6-ac38-5c7291e91b0e;Cruz and Sons;397.240.422-6;textiles;María María Vargas Chávez;hlopez@bonilla.com.co;316 601 0023;False
+8f9fbb9c-58b8-40b9-b029-91eb5bcaff3e;ORTIZ LTD;9001851327;textiles;Nicolás Jesús Acosta Vargas;antonio10@lopez.com;3862030366;False
+67620ed6-e39d-4bbf-b49b-e2e6dc8f4e93;Romero LLC;361.721.314-5;textiles;Natalia Luz Salgado;laraalberto@osorio.com.co;+57 326-249-4514;True
+27c9ff72-15a4-4263-8c7d-3eda0da8e2cb;DURÁN-SAAVEDRA;102.252.677-1;Salud;Nancy Geraldine Castro;ruizcarmen@romero-zapata.co;369 523 6687;True
+db4ba5b4-b2f9-4de4-b2cb-77f6ce9852d7;Lozano, Lozano and Pinto;6196893135;textiles;;luis21@vallejo.com;3472863330;False
+fdc8abc1-76b6-473a-8f5b-b629ae03ced8;Hernández, Burgos and Rueda;6065019179;tecnologicos;María Morales García;rodriguezalvaro@sanchez-diaz.nom.co;+57 328-476-5704;False
+8ae97eac-63dc-437f-8eae-0a3c886ef2fe;Sánchez Ltd;0928206678;turismo;Jean Sierra;estelasanchez@guzman.nom.co;+57 336-903-6289;False
+09b5ee07-c3b9-48f5-a44c-b09e6682672f; Ayala Group ;756.620.563-4;TEXTILES;Luz Rosa Patiño;maria42@lopez.org;3383034199;False
+b9a974e8-6438-4cef-b0cc-403839c2fea5; Londoño Group ;0051405468;turismo;Cecilia Elena Mosquera Hernández;quinteroyesid@lopez.com.co;+57 367-904-2271;False
+c6ce8b74-d0ef-45ba-9928-9709f76aa576;López, Pinzón and Loaiza;2288985725;tecnologicos;Manuel Ordóñez;tgomez@giraldo.com;329 710 2481;False
+41c76eda-fc5b-41c9-a522-26521038adb4; López-Álvarez ;4214955112;turismo;Antonio Felipe Muñoz Pardo;gilbertodominguez@gomez-andrade.co;3692758955;True
+bd162449-d3ac-417f-a9cc-94bf928a4066;Carrillo PLC;740.903.802-1;turismo;Eduardo Jaramillo;torresomar@lopez.co;+57 311-216-6365;True
+c6efa684-fce5-4ee2-89de-f7ccd35fe432;RUIZ PLC;7371470827;industriales;Angélica Ruiz Gómez;zmartinez@angulo-mantilla.net;+57 303-064-4212;False
+4d7d951b-4ad0-4618-bf52-562b1306eee3;Castro Inc;476.834.201-6; industriales ;Samir Jesús Ramírez;iramos@paez.nom.co;+57 396-089-3199;True
+2974ffe7-a86b-4c4c-bd93-f00691394311;Valencia Ltd;5027275164;salud;Candelaria Barbosa;fernandohenao@lopez.co;+57 382-963-5339;True
+365c1028-9b01-4273-8f61-1bae4dd3ba02;Arias LLC;0448177665;textiles;Néstor Alejandro Quiroz;martha27@arias-cortes.com;+57 386-646-4911;False
+2e6215f3-a3de-4c73-b82f-eb35089ad972;López Inc;9617981789;industriales;Nelly Melo;inescardenas@gonzalez-zuluaga.com;3576605384;False
+d70b2a97-a661-4a74-8b9a-3338a7064718;Cuéllar-Ortiz;6306000258;textiles;Enrique Tomás Chacón;luisgiraldo@franco.com.co;362 626 5826;True
+79a12a09-96dd-41ff-93c5-52d79156649e; López and Sons ;819.648.253-1;tecnologicos;María María Fuentes;mariatoro@cordoba.nom.co;327 523 3438;True
+77d2c1d0-a942-49db-bfb7-c42bb28012ee;BONILLA GROUP;4041209117;tecnologicos;Luz Isabel Lara;garciasantiago@giraldo.com;3617136657;1
+a81e9a6b-18f3-40ee-abb0-10c7da98dfff;Díaz Inc;2990155799;tecnologicos;Ana Villamizar;ramirezmaria@delgado.net;+57 351-305-2312;1
+5c8b48ab-59e3-4dac-9145-11fd24b51d0e;Castro-Ramírez;1584776863;industriales;Juan Pacheco;giovanni19@alvarez.co;367 694 5919;True
+5267b518-3d2c-4508-b8f2-005cf0ec1313;Osorio-Ospina;517.208.496-4;Turismo;Diego Luis Montes;wmercado@garcia.co;352 510 5053;False
+fe015b49-b58f-4283-b920-e6c2f7fcc616;OSPINA-RUIZ;3816493831;turismo;Esteban Monroy;cordobajorge@tovar.net;307 704 6117;True
+365b6869-5f12-4cc7-bafe-e703cf41e33b;Agudelo PLC;6390409074;industriales;Marisol Castillo Triana;quinteromaria@lopez-arenas.nom.co;+57 344-556-1857;True
+efecdc4d-4a47-4239-bbf9-5e49c7f4a949;Gómez, Jiménez and Castrillón;715.910.300-2;textiles;Azucena Gabriela Vanegas;carolinaramirez@ayala-montoya.com;3040104145;False
+867bc758-aaeb-4961-8148-6af6e382dce0;Ávila, Guerra and Ortiz;2297125296;turismo;;uobando@ramos.nom.co;315 833 1170;True
+86b34e6f-b88a-4617-b9c6-6a6192edd8f6;Rodríguez and Sons;7637153988;salud;Fabio Alexander Cárdenas;edgarlopez@torres.co;3798363146;True
+8d6facb9-9e54-4c19-a1da-14007f97262b;Duque PLC;127.113.072-4;industriales;Leidy Contreras;monica81@mejia-sanchez.co;368 507 4510;False
+b2ddbb50-91cc-49ec-84ef-3b9f7bef3f84;Flórez, Chaparro and Ramírez;362.948.978-6;tecnologicos;Flor Paula Bustos;marthalara@ortiz.net;3966613473;False
+028e7e5c-3f6b-4dd5-b300-36202c672c07;SERNA LLC;494.012.897-4;tecnologicos;Andrea Flor Pérez Quintero;asanchez@ortega.org;+57 312-095-7907;True
+8616bd5a-51e4-4eae-8b37-39ad8500ba80;Ortega Inc;094.388.221-1;salud;Roberto Quintero;igalvisvergara-munoz.co;+57 305-458-9714;False
+1ba8b541-e8c3-4f56-94e5-cbaa56e0891a;Delgado, Bedoya and Sánchez;6325703965;turismo;Alicia Diana Pedraza Henao;henry87@perez.co;+57 369-644-3098;SI
+0d3c23b4-0021-41ac-b9d4-c42ab49d4574;Herrera, Ávila and Mejía;7954107272;Textiles;John Vergara;derly14@cardenas.org;3910740650;False
+ba52db70-9972-4011-9d84-c31170bb2663;VARGAS LLC;488.214.236-9;tecnologicos;Milena María Saavedra;edwinhenao@castillo-renteria.org;+57 349-429-6592;SI
+e3d6a08c-7c4b-420f-b747-024497256999;CASTAÑEDA, VARGAS AND GUERRERO;3441497826; salud ;;vilma67@salamanca-restrepo.co;+57 306-129-4398;False
+f73250b8-a23a-49db-b035-177291dbb430;HERNÁNDEZ-RÍOS;940.626.078-7;salud;María Ortiz;quinterodianaospina-barrios.com;319 803 8287;False
+097e8bc0-aa5b-45d8-b141-30725349b3dd;Torres Ltd;2440793110;industriales;Karen González López;sandrarodriguez@marin.co;3723849791;False
+7c39115f-00b3-4c56-af22-2b5e60fb643e;Sánchez-Rodríguez;2328837744;salud;Carol Esther Soto;zflorez@restrepo.com;3047196094;True
+0e4bb9d8-2868-402a-91f0-559ad0020167;Franco Ltd;9705277402;industriales;César Ramiro Rojas;lmolina@sanchez.co;324 461 7679;0
+ca9a6314-70f3-4515-a576-29246d4bc9e3;Díaz, Blanco and Palacios;8425995996;turismo;María Jennifer Pérez;vergaramelba@acosta.nom.co;+57 331-266-1094;1
+0b1422a1-7796-4e36-8d99-24210b0493b4;Gómez Ltd;175.902.517-6;turismo;Mirian Córdoba Ramírez;dina43@villamizar.co;331 901 3020;False
+1f355d02-52ef-4e7b-89bc-45eb92060742;Guevara-Jaramillo;152.873.397-8;tecnologicos;Javier Bernardo Márquez;mendozaantonio@jaramillo.co;+57 341-173-0985;1
+66925af1-8950-4bf7-8057-9ed650c20873;Torres LLC;4651241893; salud ;Diego Martínez;murillosegundo@arango-gomez.co;3435023850;False
+12414a6a-5968-45c6-bf90-115c98120098;Rincón PLC;905.169.918-7;TEXTILES;Marcela Gómez Gómez;jesusmejia@ocampo-pardo.net;+57 300-038-9608;True
+ae8369ab-8d7f-4cf2-bbe0-7e0b6d1d7fee;Martínez-Castañeda;266.821.719-5; turismo ;Juan Óscar Martínez;andrearodriguez@cano-campo.co;390 030 1027;False
+93efce11-d43c-4971-8e42-cffaafabe6e0;Gutiérrez LLC;593.429.671-1;tecnologicos;Carmen Luisa Zapata;yesid37@suarez.net.co;+57 338-458-8105;True
+31ebd349-47e8-4999-aa05-ba5a0eaadb33;Rueda-Trujillo;413.283.483-1;turismo;Nelson Kevin Gómez;jhonbernal@cantillo-rodriguez.com;344 964 1049;False
+cd449e8c-9698-4003-8679-e99c6407f1fe; Zapata-Alvarado ;6703362680;industriales;José Castellanos;chavezalfonso@caballero-fajardo.com.co;+57 330-596-6018;No
+4964d777-f203-433d-ad02-9db8d711fed4;Cantillo-Montenegro;487.699.842-6;turismo;Omar Emiro Hernández Rodríguez;andrea38@quintero-medina.com.co;3454490149;False
+64dca655-909b-480c-a4a6-ae210c4de817;RUIZ, ORTIZ AND DÍAZ;707.070.578-3;industriales;Andrés Rico Castro;jeison72@castaneda-castro.co;3232290310;No
+bf397fc8-7161-455a-9749-e551eb0d14c1;Duque Group;9508304405;Textiles;Karen Romero;palaciosmartha@moreno.com.co;3561642059;False
+7988a012-2b6a-48d2-b1e1-2760c61ca5fb; Quintero-Parra ;574.902.504-2;salud;Luz Rojas;jose89herrera.com;+57 326-113-9898;True
+8d01cb5a-ee00-468c-ad88-14f6dfbe26cf;GUERRERO, ARDILA AND MIRANDA;8097887543;TURISMO;Edward Valencia;angela51@moreno.co;315 881 5793;False
+b87444aa-edba-4d96-840a-8598849ea163;Serna-Torres;2836929445;Industriales;Luis Diego Mora;carlosbarrera@maldonado.com;3216487120;True
+6c824338-19a7-41b4-8770-ea0afdfc9c78;Rodríguez-Pérez;1288665268;tecnologicos;Maritza Luz Burbano Burbano;portillamaria@caceres.net.co;376 472 2981;False
+7748753e-b6d5-4164-a0ce-de6b87bba653;Lara PLC;9576572894;salud;Martha Esther Martínez;ygutierrez@uribe-posada.com;3368499515;True
+52df9ac5-81b5-4dda-9598-ab54e1290baa;Pérez-Gutiérrez;773.244.913-4;industriales;Luz Caicedo Palacios;mariapabon@montoya.com;3534967827;True
+f8472a99-7588-4df2-81c7-3575480acc55;Prada-Becerra;1767412415;turismo;Alicia Martha García;josecastro@galvis.nom.co;3506185380;False
+20aedbc9-d526-4bf5-9432-dafe933d7df7;Pineda, Vargas and Orozco;334.727.274-2;turismo;Yolanda María Delgado Vanegas;mariamartinez@leon.nom.co;3496935782;False
+ec63ff85-d435-451a-9709-3c7cf05b0c42;Sepúlveda-Pulido;7769587413;industriales;Yazmín Yésica Cabrera;utamayoduran.com;375 156 2779;False
+cabdb1ad-e32b-436b-810b-b6cde99fc646;Pacheco-Gómez;483.608.545-6;salud;Anderson Salazar Muñoz;ortizmiguel@acevedo-gomez.co;363 928 3199;False
+79551ff5-1b52-4fa7-b873-57580a8b8a75;Hernández-Montoya;061.558.108-3;tecnologicos;Sebastián Faber Velasco;oestradameneses-vallejo.co;+57 363-830-0081;True
+3cb8ddb1-1f38-45de-bcc4-23123f682336;Castillo, Reyes and Sánchez;4033041662;SALUD;Jhonatan García;vrodriguez@calderon.co;339 456 8044;True
+591aacba-3651-4f75-b521-cbe4b5624413;Ramírez-Ortiz;976.461.368-4;industriales;Jorge Hernando Mora Flórez;xpadilla@forero.com;+57 363-757-9145;True
+6afaa518-70eb-4968-8f1d-71aae77cd08f;Montes Inc;1823793126;salud;Cristian Jonathan Ochoa Martínez;tvargas@quintero.com.co;396 043 8787;False
+0b996b69-ebb7-4761-9990-3a87915f2d60;Olaya-Moreno;7788116162;textiles;Ana Zambrano;elenapolo@gomez.co;328 728 6604;0
+037f04c0-18b9-4cdc-a46e-5e94ded021c8;Mejía LLC;4859592248;textiles;Mariela Delia Arias Agudelo;vrestrepo@pinzon.co;3705622710;False
+476b9b51-f798-4e18-aa38-31e2354ee89a; Narváez-Ramírez ;187.510.979-2;turismo;Gloria Blanca Torres;chaparroesperanza@orozco-suarez.com.co;+57 364-883-1921;True
+11e81c78-f4e8-4ce8-bfc9-dbd80439124e;Rojas, Díaz and Londoño;2896599949;SALUD;Alberto José Moreno Rojas;isabelacosta@valencia.com;3876754813;False
+36986f52-9ad1-4109-9233-88cb2d5611a7;Medina, Perdomo and Toro;548.581.932-4;tecnologicos;Mireya Londoño Rincón;manuel86romero.co;356 398 3652;0
+c472691f-e1a9-4e22-9e03-5dd3912ea506;Barragán, Ramírez and Mosquera;3094515480;tecnologicos;José Castro;scastillo@munoz.com;379 772 7810;True
+712d26b6-ea51-4822-9eb7-6cddb70271e2;Gómez-Lara;2221610705;industriales;Yolima Isabel Melo;quinterojavier@burbano-perez.com.co;3580660138;False
+ce341b15-b3f0-4e7a-bacd-5132b63dbff1;Padilla Inc;2704938620;textiles;Fernando Romero;liceth19@lopez-prada.com;+57 312-590-2035;False
+ad9cfec9-84b6-41c1-9f86-301ee6689647;García-Vanegas;343.240.642-4;Turismo;Amparo Peña Perea;brayan24@benavides-ortiz.co;359 558 7209;True
+baede565-6994-485e-94b0-05bf3c119d25;Sánchez-Jaramillo;654.358.841-8;textiles;;lindacorrea@arias-rivera.com.co;305 150 2675;False
+e3a61831-bad3-4a2d-b406-5a0c0bd1cea9;Jaimes-López;542.782.079-7;tecnologicos;Wilson Ortega Vargas;alberto76@gomez-oviedo.net;3816649690;False
+835a8c6b-0c38-4021-9119-97b3b63c842f;Molina LLC;9839225014;textiles;Yenny Cruz Pérez;navarroalejandrasuarez.com;333 613 2850;True
+3875a911-1971-42dd-a801-cc6043b4f305;Pérez-López;8637673162;textiles;Alonso Carlos Perdomo;leonardo69@lozano-romero.net.co;390 392 3555;True
+0177e064-d59e-4a7a-a095-60f54e7b8834;Bravo, León and Espinosa;132.730.346-1;tecnologicos;Eduardo Juan Sánchez;ximena70@bustos-salazar.com;368 171 5160;SI
+4adaa25c-fe7f-4feb-8033-5a498a3575e7;Ruiz PLC;8670766046;textiles;Alfredo González;xsierraamaya-meza.co;+57 312-686-1205;True
+8f5e398f-7630-4d29-819a-6dd91592c2c6;Fernández, Ramírez and Guerra;7607401775;industriales;Hilda Pacheco;manuela40ortiz.co;354 091 5086;SI
+60f88ea1-2807-4561-bc40-2a9ad247fbe3;Díaz PLC;122.764.579-3;salud;José Alexander Gómez León;florezaurelio@quintero.nom.co;346 602 4161;False
+0b092ba9-56cf-4554-aa55-bbf9455d81c5;JARAMILLO LLC;988.305.973-6;tecnologicos;Omar Castaño;jose09@chavez-buitrago.org;306 306 2447;False
+60b9c71a-f8e3-495b-a5ce-30aee42372ea;ANGULO, ACEVEDO AND LÓPEZ;3053194979;turismo;Víctor Valencia Giraldo;herreraangelica@sanchez-ordonez.co;3382646091;True
+bc820a4b-1b7e-4dd8-a093-5d5461f6b50c;Reyes, Bustamante and García;8544577029; salud ;Mercedes Ospina Guerrero;espinosaamparo@rincon.com;369 116 3319;True
+54d95a6b-f8ed-4e79-9e87-9716b3b7c0e1;Díaz-Pérez;686.536.945-5;SALUD;Vanessa Nubia Barrera;jose86@andrade.co;+57 347-226-4085;False
+865e2fcc-9318-489a-83db-803a1982668e;HOYOS-CARRILLO;169.666.309-3;tecnologicos;Viviana Mora García;ugarces@vargas.com;350 968 8327;True
+ced57279-4269-4fc0-a29a-1620ecc72774;Vanegas-Moreno;735.241.039-7;tecnologicos;Antonio Francisco Cerón Bautista;hsierra@velasco.net;371 006 8761;0
+251cd3f4-ded1-49ac-81ab-362b48f55d75; Yepes-Loaiza ;819.807.704-6;salud;Rosa Becerra;hosorio@sanchez.com.co;+57 312-565-2373;SI
+a34b65f3-a098-423d-80ef-54416646782c;López-Bedoya;1773454757;industriales;Julián Hurtado;milenagutierrez@cuellar.co;344 294 7742;False
+26aa4df1-6038-4cbc-b3b7-7c5612b1ef5a;Cifuentes, Hernández and Calderón;643.039.429-0;TEXTILES;Manuel Palacios;kacosta@franco-fernandez.co;3585672872;False
+1d3e6971-3c10-41f2-990c-6b0b5654bdee;Triana-Rodríguez;153.433.249-1;Turismo;Gloria Ángela Barreto Fajardo;jairomorales@castillo.co;+57 381-488-8107;False
+f338dab6-321c-4972-9ebf-c1b4e37e460b;Guzmán, Vargas and Bautista;2337209484; textiles ;Astrid Victoria Alarcón;josemartinez@vargas.co;371 805 1371;False
+8dd872d0-1e3a-4332-9dbb-f211d3d39418;García-Ramírez;8939749096;tecnologicos;Consuelo Inés Franco;qangel@agudelo-rincon.com;3587844483;True
+8ca46a85-4149-43ee-8ed5-0ae1718bd708;Castro-Londoño;4712705877; textiles ;Andrea Ochoa Sandoval;velandiaraquel@pacheco.com;333 484 5871;False
+12263299-15c1-427b-977f-d80cc5b2d04c;Suárez, León and Jaramillo;252.362.292-5;textiles;Pablo Kevin Patiño Ortiz;gilma45@suarez.co;+57 357-469-6606;True
+c129f478-94db-4cd2-b0e0-34377ad3c30f;TAMAYO LLC;274.033.445-0;turismo;Alejandro Eduardo Velásquez;orlandogarzon@zuluaga-gonzalez.net;3257970673;True
+e2b5e98d-458f-4eab-af26-e4d934af1955;Ospino-Orozco;0105485741;textiles;Carlos Germán Valencia Guevara;jbravo@jimenez.net;+57 359-848-8402;False
+84fb6ddb-fafe-40f4-917b-37bf00b60152;Bohórquez Ltd;5573257375;industriales;Alberto Israel Muñoz;hernandezjorge@medina-reyes.com;380 850 9608;True
+8c580019-89be-4aee-8ae8-1f87df866b6e;ANGULO-RINCÓN;9511918182;turismo;Alexandra Cristina Bernal;cesarcastaneda@figueroa-restrepo.nom.co;325 129 5786;True
+d0d3a5b2-de52-4fc1-b4e0-d5d97781acbf;Castillo LLC;096.003.562-4;textiles;Margarita Kelly Lozano Arango;angelcordoba@santos-forero.com.co;3232342108;0
+713221c6-bc42-474e-b399-68deb15b8afd;Garcés, Gómez and Hernández;515.533.342-6;turismo;David Villegas;maria71@rodriguez-salas.nom.co;3360776336;True
+6abd8cd6-5f9b-445b-aeaa-d10a88d8458b;Aguilar, López and Díaz;9812317955;industriales;Juan Bustamante Vera;magaly81@rodriguez-rivera.co;361 554 1643;False
+5280015b-5f04-47f8-bb77-fb6e39576aef;García, Franco and Giraldo;7045023290;industriales;;martinezfrancisco@duran.com;+57 362-282-2512;True
+30cf3f83-2728-4c76-b660-0838c828b590;Zapata LLC;654.950.050-7; tecnologicos ;Aura Sánchez;ygomez@camargo.co;331 611 7768;True
+cf734881-6287-49eb-9f6b-ce345897a994;Hernández-Agudelo;047.742.585-9;Industriales;;carmenmolina@torres.nom.co;316 491 3342;False
+8cb5337e-5551-4536-a88b-658746196875;Navarro, Valencia and Quiroz;9889425652;industriales;Katherine Vera;alzatetomas@sanchez.net;326 509 7753;True
+4c5eab16-9eaa-4dba-adf7-4bb41a892e02;Polo, Manrique and Parra;3794871485;textiles;Yecid Juan Herrera;dfuentes@lopez.org;+57 315-608-2137;True
+07f3e56d-e317-4d59-a98a-13f551e1bb03;González Ltd;425.476.818-2;textiles;;pedrotorres@ramirez.co;+57 389-298-8085;False
+31934ca5-846c-48fd-b3f6-fd01c68381db;Moreno, Erazo and Contreras;521.293.289-6;industriales;Isabel Carol Núñez Jiménez;dsantos@hernandez-rico.com;314 843 9910;False
+061c5d48-873a-4824-ac78-694310dbba26;Hernández-Ramos;2362669335;TEXTILES;Martha Emilia Hernández;vgonzalez@barbosa.net.co;3450184819;No
+571df45c-b250-4184-9513-1a8b5c0efb75;Moreno-Mendoza;1897215406;tecnologicos;Luis Correa;germanaguirreuribe-torres.com;+57 319-953-7660;True
+cf0c75aa-2d75-49a8-a624-71ea4f958485;López, Solano and Benítez;448.564.510-1;industriales;Antonio Mauricio Vega Soto;bolivaraugusto@londono-velasco.co;398 609 1919;False
+a0d31181-56a9-4e08-b004-c6909a6f2685;González and Sons;5996605779;turismo;Heidy Guerra;bcamacho@ospina.net.co;351 460 7455;True
+91df9426-3213-4a3f-a8e6-ee07f907bf21;Quiroz-Vargas;7057423885;TEXTILES;Germán Ocampo Pérez;vzuluaga@garzon-mena.net;354 116 5972;False
+4e515835-a396-4bd3-b122-28205aa22f28;Ramírez-Ordóñez;7557522501;salud;Margarita Elvia Bermúdez Londoño;catalinavelez@lopez.com.co;3642585626;False
+11cd952b-30f1-4c64-b83d-4f95fc0a8f69;Meza Ltd;499.153.703-8;turismo;Nelly Castro Zapata;esthertorres@arrieta.com;+57 397-768-8936;True
+5213c3e2-83a5-428f-9a33-841dba30b9e7;Miranda PLC;696.454.655-3;salud;Ángel Andrés Aguirre;humberto38@hernandez.co;378 519 3583;True
+63b536fb-8fff-42f6-9cd8-8f40ecd09a99;Ortiz-Perea;7977961208;turismo;Julio Andrés Romero Salas;patriciamosquera@castro.com;+57 397-626-3748;True
+3a8354f1-00a7-40b7-bd10-4a422da4bb3d;Gil, Valencia and Jaramillo;862.895.090-5;turismo;Ximena María Martínez;uariza@vargas.com;320 715 1169;False
+95ac659d-df5a-4346-8d82-f61782958a4a;NÚÑEZ, GIRALDO AND PARRA;7252145264;salud;Luis Fernando Ramírez Romero;herreracesar@munoz.co;305 120 8005;1
+5baa03ca-f420-40a0-b9c1-ed20fa26d1cd;Suárez-Vera;9951239728;textiles;Tulia Luz Carrillo Sánchez;carlos72@sanchez.com;+57 381-441-5298;False
+c2192062-7274-4f58-bb22-2039c7835f57; Galeano Group ;392.957.867-1;salud;Claudia Rosa Moreno;zdiaz@mosquera.net.co;3918158998;False
+b8ef7a3d-2112-43be-a117-b67590af5b7d;Medina, Vásquez and Ramírez;527.346.666-1;textiles;;nelsy40@serrano.com.co;3982508004;False
+f9c03bf6-e1e2-479c-a5fb-d7df6b3a49be;DÍAZ-ALFONSO;068.828.503-1; salud ;;elcyjaramillo@rodriguez.nom.co;+57 314-035-2635;True
+4694c9df-285e-440b-8b14-c6682ae75a40; Gómez-Hernández ;394.694.346-0;textiles;Emilio Rivera Benítez;victorreyes@rodriguez.co;+57 323-111-2712;False
+efa563ce-82b3-497f-a212-3f93b29f1117;Valencia, Barbosa and Muñoz;648.449.411-6;turismo;Linda Yaneth Zapata Hernández;correasandragomez.com;311 369 5727;True
+a4350b70-0d2f-4b41-b6b5-8169c4c6dcf1;Solano, Vergara and Mora;3350902542;textiles;Miguel Jhoan Martínez;ssanchez@martinez.net.co;370 713 9848;True
+43d77e8b-788b-4016-8ade-433f1041a00d; Sánchez LLC ;011.688.092-5;tecnologicos;José Jhoan Duque;florezluis@solano-gonzalez.net;+57 309-810-7964;False
+1ec5d673-fa65-4751-9bd8-800b8ad9dd25;Garzón, Cardona and Zambrano;7945772785;salud;Patricia Yolanda Pérez Parada;alonso50cifuentes-sanchez.co;+57 368-362-5366;False
+adf51a93-1d24-4097-9e3c-e40ccc1e9a0b;Cruz-Cárdenas;675.556.283-3;salud;Maritza Amparo Erazo Padilla;raul86@franco-rojas.com;+57 371-874-9603;False
+9bb0f1c5-d8fc-483a-a697-3cd61fbc4f5d;Quintero and Sons;6862703692;textiles;Abelardo Duarte;jorgecordoba@sanchez.co;3327599801;True
+f33fc6a3-51e1-435a-a7fb-d7bfa622f618;García Inc;0515532341;turismo;Edwin Alexander Rentería;tortega@gutierrez.co;3222618962;True
+4076adbd-9012-4b23-a242-fc48d5ea65d0;Cortés, Correa and Castrillón;312.710.267-6;salud;Juan José Pacheco Figueroa;lorozco@santos-manrique.net.co;3955151229;False
+036ff44d-4c79-48dd-9e3b-9c43b040d37e;Buitrago-Alarcón;135.415.970-9;industriales;Reinel Morales Muñoz;wilder07@espitia-martinez.net;+57 344-765-0471;False
+deefec52-0fea-4c62-afe5-e45c95f85ae8; Caicedo-Hernández ;909.046.376-6;TECNOLOGICOS;Erika Ortiz;zquintero@marquez.co;+57 325-483-7441;False
+bf187b9b-05d6-4571-8dc8-9a8786b69e46;Prada-García;5810213125;salud;Ana Yenny Patiño;rodriguezmaria@polo-garzon.com;397 519 1023;False
+b860d33f-bddb-451d-8c4d-273eede6865a;Carmona, Díaz and Pinzón;1063301658;textiles;Leidy Diana Ojeda Calderón;yudyariza@leal.com;3123428931;No
+7b9c0ce7-bb30-471e-b794-1ebbd90856d7;Castellanos, Díaz and Miranda;3269496843;salud;Antonio Herrera Moreno;hoyosjimmy@castro-perez.com;3175096170;False
+c9291533-9902-4c00-9a66-69e072435331;Gil, Ruiz and Fuentes;5919457575;tecnologicos;Jesús Mauricio Vásquez Sarmiento;juangomez@pena-cuellar.co;3677722660;0
+961c7fe2-de6c-442b-960c-b31b75a58265;Mesa Group;265.062.292-3;industriales;María Leidy Ortiz;mariamedina@salcedo-marquez.org;3337976627;1
+244b960f-b22f-4156-97a4-05c5624b3027;MARTÍNEZ, SALAMANCA AND MARTÍNEZ;5794238736;textiles;José Jesús Sánchez Méndez;mavila@contreras.nom.co;+57 352-597-1075;True
+f437a78c-6cc7-4a55-a14f-4359df7fc090;Vargas-Garcés;3574859532; textiles ;Adolfo Fabián Vallejo;johnvargas@correa.com;362 951 8779;1
+f9d4f989-5374-4c8f-ae3e-07029c4ae6b5;Ortiz, Cardona and Castaño;425.073.305-5;salud;Julio Stiven Arteaga Reyes;alberto83@diaz.org;303 884 3660;True
+aa57b966-2a5b-48f0-bfa1-17a83d9cac8f;Muñoz-Sánchez;006.157.276-8;tecnologicos;Stella Uribe González;aida39@gutierrez-orozco.co;301 058 7525;True
+07caa298-81c9-4e1f-8997-b10d370bcad0;Rivera, Rodríguez and Mejía;562.590.459-9;turismo;Mayra Martínez;azucenacarmona@sanchez.com;+57 331-555-1651;True
+3293e95f-6bf7-43f5-85fb-c1b2d561137b;Castillo-Martínez;6628137214;Turismo;Paola Paula Velásquez Martínez;olivagomez@quiroga.co;3556608470;False
+5ebb9158-1184-430e-bc3b-4f0db55eac62;Forero, Guerrero and García;3903397051;textiles;Alfonso Néstor Medina;andresceballos@trujillo.co;+57 323-945-3546;False
+48175a9a-7575-4f7c-8667-bab267f9a5fb;Bernal Group;079.863.210-6;tecnologicos;Astrid Xiomara Ramírez;hernan39@mosquera-martinez.net.co;3394380403;False
+3f617bbc-e571-4436-8276-001645b0e226;Estrada and Sons;765.769.277-8;textiles;;anagonzalez@marquez.com;+57 304-047-6921;SI
+4da4baed-79ed-45b1-8dab-70f452ab8974;Morales Ltd;365.146.040-1;Turismo;Carlos Cruz;paolahenao@alzate.com;301 137 9844;False
+f7034762-aad6-482e-b77c-d1e3431a7202; Narváez Group ;123.166.007-6;tecnologicos;Camilo Frank Escobar Gómez;olayagerman@castro.com;343 370 0968;True
+b490aba6-6f25-4c68-9994-b2629068181a;Reyes, Moreno and Miranda;045.195.778-2;turismo;Pablo Manuel Caicedo;angelicahenao@perez-castillo.co;354 278 6561;0
+3a74f7c3-c98e-4faf-b5c0-583d51ccef9a;MUÑOZ, HERNÁNDEZ AND VELANDIA;778.205.829-5;industriales;Manuela Córdoba Rendón;augustomedina@rangel-ceron.co;308 190 4823;No
+82a37144-3a49-478f-9577-21c33b0cac2f;Blanco, Quintero and González;586.863.956-1;industriales;Angélica Lorena Palacio Lara;alejandrosantos@vera.nom.co;3436438130;No
+160f346c-b02a-4a76-a45a-6bf8aee0c11c;GÓMEZ INC;3211471656;tecnologicos;Doris Suárez;trivera@beltran-villegas.net.co;+57 399-070-7550;False
+e125cc9b-54b9-4937-a5bc-4f00444819fd;Bermúdez-Prieto;681.699.570-6;textiles;Yazmín Uribe;ortegaandres@vargas.net.co;3176539705;False
+dcc732e0-ec8d-45a3-82d2-35b6c3ba5da1;CORTÉS-RUEDA;739.610.290-8;turismo;Andrés Juan Castro Ospina;munozpaola@rincon.com;+57 304-956-1213;True
+b8ada4fc-3e7d-4443-a6bf-87ea3731801f;Reyes-Rodríguez;260.423.597-3;salud;Rubén Roger González Pérez;jairomonroy@rodriguez.co;308 581 6704;0
+8f74c6e8-76c8-4cb7-b5c5-c5db462dc4dd;Velásquez-Salazar;1145768321;turismo;Ana Jaramillo;cindyorjuela@velasquez-acosta.net.co;329 618 0332;False
+94da6297-db4a-4754-833c-307d05f34fd1;Hernández-Narváez;0508018498;textiles;Lucía Arrieta;marco73@vergara.co;331 268 8122;No
+6dcebe7a-8f0a-41b9-8683-3d493d55150d;Sánchez, Ochoa and Acosta;192.365.346-0;Tecnologicos;José Ruiz Medina;javiergranados@cardona-perea.net;+57 327-986-2398;False
+67d2b270-a0ac-42e8-ac28-ff27b7e892f1;Zapata-García;906.181.205-4;tecnologicos;;angie89@villegas-ordonez.co;387 698 9992;False
+c2a69670-a3c3-4419-b6ec-9201cbe330f8;Quintero-Aguirre;588.914.444-9;textiles;Lucía Nora Fajardo Ospina;santos35@buitrago.net.co;3392435885;True
+6b4d05e7-a90c-4d97-8777-bd28a89c1797; BAUTISTA PLC ;821.433.952-7;industriales;Antonio Jairo Ortiz;jmontoya@calderon-munoz.co;3860134778;False
+865b31af-08c6-4684-a659-646ca7854324;PINTO, PALACIOS AND SALAZAR;406.791.766-5;textiles;Patricia Luz Ochoa;gomezpatricia@caicedo.com;3163090015;True
+f4a95207-8b6e-4ce8-a0b3-e3507f2d948a; Pinzón, Gutiérrez and Moreno ;3999485320;textiles;Alonso Juan Parada;nramirezpedraza.com.co;+57 394-711-3633;True
+08ad63c8-01e4-4e59-9101-da8c8cecccbf;LEÓN-GALINDO;3410346996;turismo;Alberto Luis García Amaya;ysanchez@espinosa.net;3768550789;True
+b52ceb07-95b0-459d-b7d0-0dd37cd7be91; Velasco-Calderón ;5219626335;salud;Diego Antonio Jiménez;lizethmonsalve@pacheco.net;317 069 5560;False
+48784018-72ad-426a-8dd2-70c709cdcf90;Mendoza-Marín;616.453.454-7;salud;Ana Márquez Franco;edgargonzales@martinez-torres.nom.co;+57 321-980-4184;False
+f9753350-2fec-404a-b73e-e6e0dd495333;Sánchez-Hernández;642.364.281-3;Industriales;Mercedes Alexandra Páez;nancycorrea@lara-moreno.net;391 114 2817;False
+efa074e0-74fd-42c3-a98e-f3e805612197; Ochoa, Vanegas and Sánchez ;230.524.808-8;tecnologicos;Elena Pérez;isanchez@prieto.com.co;+57 347-372-1329;False
+c93d5641-f29e-4b27-837d-d3e4d0b97ee5;Martínez Group;2047876886;turismo;Joan Jhonny Mosquera Calderón;hespinosa@perez-andrade.com;3031954196;True
+cdecedd8-b57e-44e2-ab20-f13c00ff61cd;Rivera-Arias;5730362792;textiles;Jhon Sánchez;rubenmunoz@correa-restrepo.net;372 603 2145;True
+ad0b0593-a385-4fd9-acbe-50baa3cc69c8;Romero Group;619.458.870-7;industriales;Gloria Diana Caballero;marialopez@amaya.net;385 076 5975;True
+cb00b632-0147-428a-822e-2185569d6897;Valencia, Morales and Meneses;9177680898;textiles;Melba Ana Luna;alexander74@sanchez.com;+57 396-463-0040;False
+6a8bdb39-9a8d-45a9-a382-92ddea35a848;RAMÍREZ PLC;362.689.430-1;salud;Yolima Ortiz Ramos;torresnestor@velandia.com;317 595 7498;0
+9d495d3c-41a8-404e-b57b-c36d2a9bfa3d;Campo, Aguilar and Valencia;582.984.933-0;salud;;zcardozo@cantillo.org;3128333721;False
+9fdf24ff-bd0c-40ab-93d6-04229892ac09;Ríos, Morales and Villamizar;6954132971;salud;Franklin Andrés Parra;esanchez@quintero.com;+57 343-776-9366;False
+23480392-09a5-4503-9b5f-49a30140da33; Gutiérrez PLC ;2529596111;industriales;Fanny María Ríos;ytriana@jaimes.com;302 455 9102;True
+08791c0c-2144-49f0-9c12-46d1f75de403;Valencia-Gómez;9109032671;tecnologicos;Orlando Garzón;roaamparo@restrepo.com;+57 381-793-4065;False
+ef9c7d89-c9cb-4318-8a00-2e8719e7717f;Pérez, Ortega and Cárdenas;8446634533;TEXTILES;Carlos Carlos García Fernández;sanchezabraham@sanchez.org;355 937 6618;False
+772247c5-5cf3-48b5-b1ef-8dcfb3468ad4;Fernández, Cuesta and Rojas;7052635100; turismo ;Jhon Guerra;znavarro@prieto.nom.co;3659202461;False
+dd201dbf-32d7-498d-ab38-ac14d56bfd69;Pardo-Quintero;0238974326;turismo;Constanza Barrera;francisco55@lopez.net;3325848689;False
+83b758e3-8c02-4172-a396-4a58129dfa50;Carmona, Ramírez and Solano;0798487045;textiles;Adriana Pineda;ortegahenry@caro-leon.net;3593744039;True
+cad28008-a066-4230-8618-0743d8cffd85;Medina-Rodríguez;303.736.060-1;salud;Sebastián Maldonado;urodriguezmesa.co;3938841368;True
+d9e45fd1-ccc8-4e92-ab5d-382c213dc219;Valencia, Vásquez and Ramírez;615.370.124-2;textiles;Fredy Guerrero;kramirez@lopez-montenegro.org;388 112 1031;True
+f545191d-5cfa-4623-be15-70d7f47fd9e0;Paz-González;751.887.817-9;tecnologicos;Stiven Mosquera;romeroyulieth@vasquez.nom.co;3091122528;True
+69406ac6-ab5c-415e-b86c-85ccc5336e16;Lozano, Acosta and Velandia;5056618632;industriales;Mercedes Daniela Orozco Benavides;hernansaavedra@velasquez-cruz.co;+57 353-007-3095;False
+4a609dbc-f2dc-423c-9d72-0a0754e30a90;Ojeda LLC;5605712198;Tecnologicos;Elizabeth Leidy Cortés;paola05@alvarez.org;301 042 4624;False
+e6b373ec-8084-4a3a-9504-732791470562;Gaitán-Bejarano;8517446004;textiles;Juan Luis Hernández;moralesdiana@solano-ruiz.com;3293913044;True
+80a25b76-228c-4886-b126-e6df07318e7b;TOVAR, BARRETO AND GARCÍA;898.484.160-4;salud;Luis Quintero Mena;patricianunez@rodriguez.co;+57 368-142-9831;0
+8684e239-a2bf-4ed5-9905-093007d45058;Pérez-Bernal;910.732.283-6;industriales;Flor Pulido;jacquelinemoreno@rojas-soto.net;384 526 9694;True
+a394d125-b9f5-42a4-8c36-7fedd3ed9685;Vargas-Zuluaga;164.970.169-3; salud ;Edgar Escobar;paradatatiana@gomez.nom.co;+57 316-234-1903;True
+29c49d47-f571-4651-9df4-4005bb2149d4;González, Vélez and Peña;5372215566;turismo;Óscar Ramírez;adrianaromero@andrade.org;360 406 7200;False
+0b3b36c6-b21b-4a78-b77e-4e78b2a1b0f1;Cruz, Gutiérrez and Peña;4244260781;textiles;Javier Armando Cardona Pacheco;pedro64@ramos.com;+57 303-763-8821;False
+c0132384-2071-4d22-9615-13b806053aeb;Camargo-Guzmán;1484601913;Textiles;Antonio Vargas;antoniorendon@sanchez.co;3869507321;False
+8abfe4a0-a3cc-463c-9deb-678407045323;Suárez, Cabrera and Vargas;493.699.951-6;textiles;John Giovanny Valencia Andrade;jhoana38@rincon-osorio.co;+57 301-192-3603;No
+d65d30be-7fe6-4558-b838-9b6096207539; Peña-Orjuela ;1187233351;textiles;Carmen Prada;rgonzalez@fernandez.co;+57 339-114-9830;False
+f3341e1c-31ca-49d6-b53a-c6a569260d0f;Barrios-Ríos;073.651.189-3;TURISMO;;alfonso82@daza.com.co;304 322 3023;False
+9216a6d5-3fa0-4c9b-bdb0-6de27d3a9f6d;Ramírez LLC;7073920135;turismo;Gerardo Mejía;palaciocecilia@rodriguez-rivera.co;326 112 3126;False
+c8542d22-2d71-4feb-80bb-c5f094a9a5d9;Mejía Ltd;2488899572;salud;Virginia Fernanda León Rosero;valentina93@vera.org;3687191203;False
+770d1c3b-5efb-4490-b244-7c764b436c49;Bermúdez, Quiroga and González;769.208.283-2;textiles;Valeria Johana Calderón Loaiza;andresgarcia@montoya.com;+57 320-673-2318;False
+af213660-f356-4ee2-994c-b9409c60d5e0; Pineda Inc ;6815724500;TEXTILES;Sara Guevara;alvaradodaniel@ruiz.net.co;+57 391-137-1785;False
+926ee973-1858-49ad-bf66-12db633d3ede;Mesa Ltd;9025561844;industriales;;albertoescobar@gutierrez-guzman.com;+57 322-489-0567;False
+0ba9e554-d26a-4d1f-9eea-f7d0808d8f33;Palacios Group;0090043655;tecnologicos;Gloria Rocío Contreras;hrivera@pena.co;+57 335-505-4296;True
+033455d0-64eb-40d8-8871-7fdcd2bf5856;Gómez, Forero and Pineda;0633699879;salud;Kevin José Trujillo;carmenmartinez@chaparro.org;3818804428;No
+02297910-e21b-4c51-a051-d01cc16001c7;Sierra-Granados;836.381.643-2;industriales;Patricia Alejandra Buitrago;josefranco@ariza.net;362 586 3144;False
+018df545-a481-4794-8be1-70c7dfaa9643;Restrepo Inc;646.255.402-6;turismo;;jeanvallejo@camacho.co;+57 346-448-9880;False
+380d9428-5f59-4a59-9109-a55b81af5cb5;Ariza LLC;388.824.527-9; turismo ;Gladys Herrera;eduardo04@ramirez.net;3538495163;True
+55bd37f6-7e64-471a-91d4-42574f799848;Cifuentes Inc;197.871.809-3;salud;Stella Valentina Ramírez Rojas;ofranco@nieto.nom.co;3119875617;1
+8a52faf4-6aac-4490-a9d7-1ec06c62f2a1;Andrade, Patiño and Pinzón;8002300915;Tecnologicos;Luis Hernández Hurtado;vargasleonor@henao-zapata.nom.co;3491609365;True
+f52f9a3e-1527-45b7-ba34-d7d76bc8978a; Mercado, Hernández and Martínez ;491.189.418-4;tecnologicos;Martha Mónica Herrera Rodríguez;alfonsoparra@aguilar.net;3998213745;True
+12d82562-b467-4a87-befe-5f626f98861b;Guerrero-López;0428860505;TEXTILES;Esther Elena Mejía Mercado;delgadodiana@hernandez.com;3308356691;True
+c859043f-17df-4aec-81f6-89a0e98a38bc;Giraldo Ltd;7153123455;turismo;Maribel Palacios;shirleygonzalez@sanabria.com;393 844 0134;True
+65d3bc22-18f7-47e3-a633-4787155f2e16;Rodríguez, Silva and Cardona;3543788260;tecnologicos;Martha Liliana Vanegas Martínez;yesenia09@palacios.com.co;3144920749;False
+7a44f4d6-d885-45a5-94a0-20043d4a9a94; Castillo PLC ;9969964899;industriales;Luis Cristian Sánchez Páez;khenao@sanchez.com;340 849 9323;True
+786aa27c-b2dd-47f5-bd84-a840c5a6426c; Díaz and Sons ;426.698.069-0;Textiles;Carlos Leonardo Cruz Guerrero;bedoyacarolina@alvarez.net;+57 389-359-5382;True
+1d566d7a-9a42-4a5b-9483-df6f86c68798;TRIANA, URIBE AND PEREA;4056129965;tecnologicos;Esperanza Miranda;marianacastellanos@buitrago.co;+57 369-656-1308;True
+f8c5e42f-3c61-4dfc-b18a-acff26c2081a;Montes-López;2385951434;INDUSTRIALES;Ángel Moreno Rosero;gustavo40@roa.co;330 086 9661;True
+5923130e-adfd-467c-9a69-21d6a14bbeb8;González Group;831.139.500-1;Textiles;Cristian Ávila Castro;fernando15@cardenas.net.co;383 976 2053;True
+b2ad64c1-d60d-45e5-a830-eb8833606d58;Castro, Rodríguez and Zapata;7946207266;salud;Stella Herrera Cortés;canoamelia@luna.com;+57 399-140-6884;1
+8cf53ac8-e296-4b2e-9b0e-e7b0ea089583;Manrique and Sons;373.125.523-5;TURISMO;Luis Vásquez García;ramirezalbert@buitrago.com.co;3206136385;False
+2584f8bf-ff3b-4375-8ff9-8e6536ab3030;Correa PLC;956.133.718-4;Turismo;Fernando Martínez;wilsonruiz@alvarado.co;+57 301-644-0373;False
+8e409ba7-4a4b-485a-82c3-929bde261d29;Vargas, López and Correa;127.782.210-2;Tecnologicos;;sandraramirez@granados.co;3797363831;True
+9a697b1a-7ca7-49aa-bbf0-5068492843d4;Díaz, Carrillo and Ruiz;0539707986;salud;Héctor Portilla Cárdenas;castilloduvan@galeano.com;3050682122;True
+ba21be54-1c4d-4ab6-82b2-427d3014b81c;Méndez LLC;2165058714;salud;Julián Ardila Guzmán;patriciajaramillo@jaramillo-tamayo.com.co;308 984 3699;False
+d0b62cc6-1fec-43a5-acd4-d7687e107fa7; Gutiérrez, Vásquez and Rodríguez ;220.509.386-9;tecnologicos;Alfonso Jiménez;stellacalderon@leon.com;345 788 7071;False
+1f16b124-9988-40cb-bc9f-1a80b19747fb;Salgado-Moreno;8676738209;turismo;Fernando Adolfo Corredor Martínez;izapataflorez-sanchez.com.co;+57 396-872-2589;True
+325d0857-2010-4e0d-a5d3-df8bc4b729dc;ZAPATA LTD;085.806.235-0;tecnologicos;Alex Vergara;alfonso66@beltran.com;+57 312-482-5544;True
+db873a9c-bb89-4863-afad-3acde187f2ff;Betancur Group;796.325.942-3;tecnologicos;Flor Mena Sanabria;oserrano@vasquez.com;356 241 5285;False
+26d63b83-1910-4d12-b5f3-7798adc29241;Villamil, Ramos and Caro;5629269335;salud;Luis Ramiro Ballesteros;velasquezsocorro@rodriguez-jaimes.co;+57 346-850-9574;0
+8fe225fe-ba77-4e0d-9479-5afb65034ed9;Torres-Ramírez;918.911.797-2; textiles ;Diana Roa;carlos40velasco.co;341 547 1553;False
+f0ed6a34-c2c5-41b5-a5de-8990350ae9c1;Rojas and Sons;5936781367;TECNOLOGICOS;José Edilson Ortiz;jhonfranco@gutierrez.com;352 769 8198;True
+5a7ce701-4925-4876-b8da-1839b592741e;Londoño-Calderón;270.452.388-8;textiles;Diego Giovanny Betancur;uguerrero@mora.co;+57 344-227-5854;False
+bdd1ac24-0d0e-485c-b091-16cf00639720;BARRERA, ARDILA AND SALAZAR;559.428.249-1;salud;Mariana Fernanda Quintero;leonrodriguez@gomez.co;3393132155;True
+3279fea1-81f8-492f-8079-5ecca62dccde;Rojas LLC;570.836.821-4;salud;Jorge Guzmán;nflorez@rincon.net;3677462025;0
+8279c7c6-91a9-4f2f-8d69-7ef3b0b19d9b; Bustamante, Rueda and Villegas ;4318328123; tecnologicos ;;pinedaantonio@rivera.com;383 647 2387;False
+8921479f-b4cd-4f45-87cd-7f717b3ae522;Rodríguez-Pérez;7681722577;turismo;Fernando Geovanny Londoño;michel62@valderrama.co;+57 376-831-6082;True
+f20aed84-3da3-4adc-9353-1f71e9ddfc24;MENDOZA, GONZÁLEZ AND CORREA;1733739920;textiles;Juan Carlos Pedraza;jairorangel@ardila.net.co;3914388232;False
+be4dd74e-7d04-4bcc-b928-c8db2ed27875;Arango-Narváez;398.358.446-1;textiles;Nelson Miguel Sarmiento Rincón;mariogutierrez@jaramillo.org;397 912 7997;SI
+0bbb30d1-c805-4980-bb93-c41e0c061a1f;Díaz and Sons;712.053.978-7;textiles;Sandra Sonia Figueroa;carlosvelasquez@vargas.com;325 608 3200;True
+5c4fd120-e8e5-41ed-b3b0-6519fde58d8b;Ochoa-Reyes;788.897.535-8;textiles;Juan Leonardo Medina;veraharold@ramirez.org;+57 336-199-5171;True
+3f61fe50-37db-4d1f-b96d-7a63110f6ff0;PALACIO-PÉREZ;391.029.295-0;salud;;luzbravo@escobar.com;+57 339-719-1260;False
+9ebcaa00-dc43-4785-b344-48cb3b6113f9;Sánchez, Sánchez and Rojas;176.720.191-1;turismo;Liliana Luz Barreto;gonzalezoscar@hernandez-herrera.nom.co;387 339 3049;True
+73124acf-989d-42fc-82d9-d3cf026c10b0;Mejía LLC;380.274.812-4;tecnologicos;Luz Gutiérrez Angulo;ipineda@estrada-escobar.co;3229462093;False
+de16bba8-f2d3-4c0c-86d3-f5a067290b46;Sanabria, Portilla and Romero;6103995297;tecnologicos;Yulieth Torres;rgonzalez@salazar.co;+57 358-564-2304;False
+7cb1efcc-3234-4b3d-8b75-4e45059a0a24;Campo and Sons;0270615927;salud;Yaneth Isabel Pérez Beltrán;fpinzon@osorio-vega.co;+57 332-248-1554;False
+14dbea95-be63-40e1-a339-6852f26e93cb;Niño Ltd;034.030.109-5;turismo;Robert Ospina Solano;yarias@trujillo-arias.com.co;+57 355-462-3471;True
+d31dfe8f-ddba-47da-9f61-e2249cb38207; Perea LLC ;760.108.018-1;TECNOLOGICOS;Sandra Arévalo;gcortes@castillo-castellanos.com;3726808081;True
+26e39947-0d7c-497e-881d-0e8289ef7fcd;Camacho, Cardona and Sánchez;015.071.380-6;tecnologicos;Luis Andrés Amaya Quintero;guerraalexandra@posada.co;3213009625;True
+6d05aedb-b8ba-4474-aa03-1a77fa567f00;ESTRADA, BUITRAGO AND CARDONA;694.703.180-5;turismo;;armandovillegas@caballero-velasco.co;362 159 1832;0
+44ed6979-d26c-4257-9b8d-166c0a2e8fb6;MÁRQUEZ, RODRÍGUEZ AND MARTÍNEZ;466.614.590-1;tecnologicos;María Elizabeth Soto;caromaria@hoyos.co;+57 319-490-5315;False
+8e59af27-cd92-4dfd-b0fd-8c10a8592ad4; Gómez PLC ;980.949.769-8; turismo ;Leonardo Augusto Ramírez Vega;aguilarnidia@zambrano.com;3237407794;True
+fbf1b9df-2180-4f0a-b2d6-c06ef2be6262;MORENO AND SONS;562.389.949-9;tecnologicos;Iris Inés Rodríguez;claudia62@rojas.co;3782116020;True
+34a03684-b9c6-403a-a6aa-240e80b22980; Arenas, Méndez and López ;8135998989;turismo;Leandro Efrain García Marín;arizaandres@fernandez.com;+57 318-644-8221;True
+38a0baff-183d-4bf2-aa25-39dafe2017cd; Monroy-Loaiza ;8839785708;tecnologicos;María Rodríguez Montoya;eortegalopez.co;3914961128;No
+f74535f7-88fb-449f-8e02-532393c87794;Gil-Vega;2968827697;salud;Marcela Fernández;alejandromunoz@angulo.com;356 078 3274;True
+8cd08e92-1e2e-4c19-a51b-dce0732b3750;Santos, Barrios and Velásquez;5651796240;turismo;Hernando Gutiérrez León;uvasquezrubio-osorio.org;3784217028;True
+7f1bb3a4-dfad-4cd8-848d-f5219fbaaa97;López-Sánchez;5936488208;Tecnologicos;Marcela Alejandra Benavides Torres;rangelmarcela@medina-sanchez.co;3799160911;False
+3a11e7ca-b6be-46a8-b9ac-56b71dd68db7;García-Molano;193.592.361-3;Tecnologicos;Leidy Adriana Rodríguez Díaz;mariamunoz@palacios.nom.co;302 544 7241;True
+fcf5596b-ed0f-4f61-a44e-828f9100a3d4;López, Ruiz and Gómez;3440966177; turismo ;;vasquezjefferson@rodriguez.com;+57 314-174-6813;True
+8aafee87-056f-468c-9c97-c618b7f065de;Trujillo-Villegas;6486989396;salud;Jesús Alfonso Ospina Pacheco;valenciajuan@arenas-martinez.com;3929207536;0
+dbf98bd3-fc41-4332-ac0e-77559902cc98;Gómez, González and Ortega;603.988.636-5;textiles;Adriana Sonia Hernández Molina;teresa90@reyes-martinez.com.co;394 248 9420;False
+c7860c3d-936c-4d7a-ac97-a2e9185cbf99;Cáceres-Molano;489.667.605-6;tecnologicos;Carlos Fonseca;eugenia57@herrera-galindo.com.co;+57 374-533-8906;True
+d7271557-0761-4d30-a96a-99a4b31e68d0;Vargas LLC;466.226.540-1;industriales;Víctor Agudelo Romero;rodriguezleon@perez-diaz.com;324 276 7746;False
+9400cfd3-a077-409d-8082-865736232665;Cabrera PLC;1601124115;salud;Sebastián Delgado;achacon@rodriguez.co;3778231299;True
+96f5098b-7617-42e0-a06c-895eb6d6fc6b;MARÍN-SERNA;047.264.261-2; industriales ;Aurora María Contreras;felipeloaiza@torres-herrera.com.co;368 078 5254;True
+9207aa68-b6b2-4514-9fda-34e3aa65a956;PÉREZ, HERNÁNDEZ AND SANDOVAL;3854540064;industriales;Augusto Gutiérrez;jquintero@meza.com;3232748979;True
+b7824b3f-87cd-4118-94a3-b13655dcb4f1;Ayala, García and Mendoza;633.427.203-8;tecnologicos;Héctor Fonseca Burbano;alejandro80@calderon.net;+57 304-530-6935;True
+1eb19ee0-b38a-4a36-bc38-cb1540884b16;Vásquez, Salcedo and Ortiz;3534001816;turismo;Felipe Jorge Espitia Benítez;herney44@alarcon-pedraza.org;+57 346-083-8517;True
+e00f3bbb-2f8b-4d00-8303-887e52bd4df1;BELTRÁN, CARDONA AND PÁEZ;1053912878;tecnologicos;;hojeda@castano.com.co;304 579 2714;True
+7e016a80-6baf-4cd2-a0bb-1ee56718e544;Duarte-Muñoz;301.986.424-2;Turismo;Marta Camila Vega Pérez;leidymercado@obando.net.co;3870629328;False
+e0bce9bf-7828-4e6f-8843-794e194d4e71;SALGADO, AMAYA AND VELÁSQUEZ;322.101.023-2;industriales;;yrestrepo@gomez.co;+57 398-761-0814;True
+b5bf68b3-f0c1-4727-9218-2f54179efd9d;ARIAS INC;4038453198;industriales;Ingrid Castro;elenaalvarez@ruiz.com;330 762 0545;True
+2cce8ea3-7375-449d-9c0c-f17d77fa5b1d;Fernández, Mendoza and García;006.666.411-0;salud;Aníbal Jiménez García;ruedastiven@ospino.co;+57 385-169-9497;True
+7378c1bd-b322-4533-ace8-2dea7feeb3fa;Guzmán Inc;583.668.348-2;salud;Sebastián Ospina Trujillo;yuliethcruz@silva.co;+57 388-891-7879;False
+c1034748-dbce-46e1-9803-c08bcd3c855e;MORALES LLC;962.571.976-0;industriales;Patricia Gilma Hernández Rangel;elvia89@serrano.com;3809521755;False
+d05552f1-eb16-43c5-bd82-bae2b81c3c3b;Álvarez, Yepes and Cruz;7412746921;turismo;Luisa Fanny Franco;blancaleon@castillo.com;+57 329-758-9170;False
+69320ff2-4cb0-4b3c-a339-158685221833;Rangel, Caro and Ortiz;5421854570;salud;Óscar Alfonso Rodríguez;carmenpolo@serrano-blanco.com;+57 301-635-6407;No
+dfd0af5e-c213-460a-9e6e-4258fe9695f3;Rojas and Sons;4728289540;turismo;;ceciliamunoz@moreno-hernandez.co;3168507105;True
+71409bd3-4039-4360-9f37-f61c3b1b1160;BEDOYA, GALLEGO AND MARTÍNEZ;1950927115;tecnologicos;Fernanda Cano Gómez;lorena70@hernandez.co;+57 395-007-4189;False
+584acef8-4506-4d79-8848-4746da5838ad;Londoño-Valencia;4329876989;industriales;Karol Adriana Hernández Muñoz;acastaneda@lopez.com;+57 373-481-3104;False
+c2e971b9-931e-45d0-b782-b1d2675b3d51;GÓMEZ-ROMERO;896.321.743-5;turismo;Antonio Alonso Bravo Quintero;marisolmartinez@gonzales-mejia.nom.co;3673983448;False
+a5039405-1d43-4df7-9b8e-72c758d7bdb7;RAMÍREZ, SUÁREZ AND DÍAZ;364.628.055-0;salud;Nicolás Edilberto Rueda Medina;wbeltran@morales.com;3392090855;1
+f4cb615c-2d6b-4fa5-b038-f38fe29e015e;Gómez Ltd;4091311178;salud;Luis Rengifo Rodríguez;ricardo76@pacheco.com;+57 306-953-5412;False
+f581cf0d-0da4-420f-8f50-f782c8779d28;SANTOS LTD;2275950026;industriales;María González;nelsongranados@parada-hoyos.net.co;+57 394-795-0740;True
+c26e403f-25b8-42e7-bc3d-2f01101d7ccc;López-Marín;3279805950;turismo;Nelly Fabiola Martínez Riascos;rene93@perdomo-rodriguez.nom.co;+57 391-045-2036;True
+b5e3ee69-b4f0-4b52-bc03-332d31ecbb94;Mora Ltd;4118491359;tecnologicos;Geraldine Mosquera Ochoa;ferneyduque@sanchez-morales.com;+57 300-679-9006;1
+989d15e6-a702-4b7b-bde7-7a014f4ed9b9;Osorio, Caro and Bravo;018.677.403-7;salud;Edgar Hernández;alexanderjaramillo@suarez-bermudez.co;330 067 7625;1
+0ebb7256-3c34-4d56-ae7f-ec84f63af6da;Rodríguez-Pérez;5017365426;turismo;Isabel Cruz Muñoz;mendezalexander@narvaez.org;+57 351-100-9060;1
+415967fe-e408-46c4-8c71-0d296752ded3;Vargas-Henao;886.843.021-1;turismo;Jhon Torres Hernández;castrojavier@quintero-pardo.com.co;3887592129;True
+38ddceb2-57ff-4521-b4d0-aa83eb83f6cc; Vega, Salazar and Pérez ;0336202755;tecnologicos;María Restrepo Restrepo;velezcarmen@gonzalez-meneses.com;3380236219;True
+6b596381-d6e0-4826-b53e-85c031e3149c;Durán, Martínez and Fajardo;818.970.591-6;industriales;;vanessa81@fernandez.nom.co;3721688005;False
+4dfea93c-e1c0-410f-9b75-23a6d99e17b4;Acosta Ltd;931.869.289-7;Salud;Mariela Castro Salamanca;arturo18@perez.com;3002839482;True
+2b6de806-a55a-4627-b705-cb2ef5a9b219;Carmona, Gonzáles and Hernández;204.144.743-2;salud;María Yurany Arteaga;diegosandoval@pineda.net;+57 304-232-2775;True
